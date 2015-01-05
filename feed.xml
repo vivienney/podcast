@@ -1,0 +1,44 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}/</link>
+    <language>en-gb</language>
+    <copyright>&#x2117; &amp; &#xA9; {{ site.time | date: '%Y' }} Steer Systems Ltd</copyright>
+    <itunes:subtitle>A weekly podcast about web development and design by the team at Steer</itunes:subtitle>
+    <itunes:author>Steer</itunes:author>
+    <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
+
+    <itunes:owner>
+      <itunes:name>Steer</itunes:name>
+      <itunes:email>podcast@steer.me</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="http://example.com/podcasts/everything/AllAboutEverything.jpg" />
+
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+
+    {% for episode in site.episodes %}
+
+    <item>
+      <title>{{ episode.long_title | xml_escape }}</title>
+      <itunes:author>{{ episode.hosts | array_to_sentence_string | xml_escape }}</itunes:author>
+      <itunes:subtitle>{{ episode.subtitle | xml_escape }}</itunes:subtitle>
+      <itunes:summary><![CDATA[{{ episode.content }}]]></itunes:summary>
+      <enclosure url="{{ episode.audio_link }}" length="{{ episode.length }}" type="audio/mpeg" />
+      <guid>{{ episode.url | prepend: site.url }}</guid>
+      <pubDate>{{ episode.date | date_to_rfc822 }}</pubDate>
+      <itunes:duration>{{ episode.duration }}</itunes:duration>
+    </item>
+
+    {% endfor %}
+
+  </channel>
+</rss>

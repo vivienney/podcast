@@ -1,0 +1,65 @@
+---
+layout: default
+---
+<div class="container">
+  <section class="hero">
+    <h2><span class="logo-typeface--highlight-first">Steer</span><span class="logo-typeface--highlight-second">cast</span>: {{ site.description }}</h2>
+    <h2>Made by <a href="https://www.steer.me/">Steer</a> for people learning to code.</h2>
+  </section>
+</div>
+
+<div class="click-to-scroll">
+  <a href="#scroll-to-end" class="scroll">Have a listen</a>
+</div>
+
+{% for episode in site.episodes limit:1 %}
+<section class="latest-epsiode" id="scroll-to-end">
+  <div class="container">
+    <div class="episode__meta">
+      <p class="episode__latest-notice">Latest Episode</p>
+
+      <div class="episode__player">
+        <h3><a href="{{ episode.url | prepend: site.baseurl }}">{{ episode.long_title }}</a></h3>
+
+        <div id="audio-player" data-audio="{{ episode.audio_link }}"></div>
+        <div class="player__container">
+          {% include player.html %}
+          <a href="{{ episode.audio_link }}" class="player__download-link"></a>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="episode__details">
+
+      <div class="episode__tweet-quote">
+        <blockquote>
+          {{ episode.quote }}
+        </blockquote>
+
+        <a href="#" class="icon icon--twitter js-tweet-link" data-quote="{{ episode.quote }}" data-link="{{ episode.url | prepend: site.url }}"></a>
+      </div>
+
+      <div class="episode__shownotes">
+        <p>{{ episode.subtitle }}</p>
+
+        <a class="episode__link" href="{{ episode.url | prepend: site.baseurl }}">Read more</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+{% endfor %}
+
+
+<div class="container">
+  {% for episode in site.episodes offset: 1 %}
+  <section class="episode">
+    <h3><a href="{{ episode.url | prepend: site.baseurl }}">{{ episode.long_title }}</a></h3>
+    <p>{{ episode.subtitle }}</p>
+
+    <a href="{{ episode.url | prepend: site.baseurl }}">Read more</a>
+  </section>
+  {% endfor %}
+</div>

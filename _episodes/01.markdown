@@ -1,0 +1,47 @@
+---
+layout: post
+title: "01"
+long_title: "01: A few of our favourite things"
+date: 2015-01-06 13:30:00
+hosts: [Sam M, Sam B]
+quote: The closer you get to a language, the more it becomes like creative problem solving.
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/01.mp3"
+# Details for RSS Feed
+duration: "60:36" # duration in minutes:seconds
+length: 58187778 # size in bytes
+subtitle: "The very first Steercast podcast, this episode is introducing Sam Mason & Sam Billingham and asking them questions all about the tools they use to the resource sites they check every day." # Only a few words
+
+# The main content cant be more than 4,000 characters
+---
+Welcome to Steercast, a weekly podcast about web development and design brought to you by the team at Steer. In this first episode we'll be introducing you to two of our developers Sam Mason([@samjbmason](https://twitter.com/samjbmason)) and Sam Billingham([@sam_billingham](https://twitter.com/sam_billingham)) and finding out why they love to code, tips and tools they use.
+
+#### Languages
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Node.js](http://nodejs.org/)
+- [Go](https://golang.org/)
+
+#### Tools
+- [Atom](https://atom.io/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [Google Chrome](http://www.google.com/chrome/)
+- [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
+- [CodeKit](https://incident57.com/codekit/)
+- [Hammer](http://hammerformac.com/)
+- [Sketch](http://bohemiancoding.com/sketch/)
+- [Pixelmator](http://www.pixelmator.com/)
+- [iTerm](http://iterm2.com/)
+- [Zsh](http://www.zsh.org/) & [oh my zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+#### Learning Resources
+- [Shop Talk Show](http://shoptalkshow.com/)
+- [CSS-Tricks](http://css-tricks.com/)
+- [HTML5 Rocks](http://www.html5rocks.com/en/)
+- [Dive Into HTML5](http://diveintohtml5.info/)
+- [O'Reilly Media](http://www.oreilly.com/)
+- [A Book Apart](http://www.abookapart.com/)
+- [Codrops](http://tympanus.net/codrops/)
+
+#### News
+- [Hacker News](https://news.ycombinator.com/)
+- [Designer News](https://news.layervault.com/)
+- [Hipster News Chrome Extension](https://chrome.google.com/webstore/detail/hipsternews/midnccdcbhikpniledkdhojbhdnkkkdb?hl=en)

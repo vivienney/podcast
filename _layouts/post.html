@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<section class="current-episode">
+  <div class="container">
+    <div class="episode__meta">
+      <p class="episode__latest-notice">Latest Episode</p>
+
+      <div class="episode__player">
+        <h3>{{ page.long_title }}</h3>
+
+        <div id="audio-player" data-audio="{{ page.audio_link }}"></div>
+        <div class="player__container">
+          {% include player.html %}
+          <a href="{{ audio_link }}" class="player__download-link"></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="episode__details">
+
+      <div class="episode__tweet-quote">
+        <blockquote>
+          {{ page.quote }}
+        </blockquote>
+
+        <a href="#" class="icon icon--twitter js-tweet-link" data-quote="{{ page.quote }}" data-link="{{ page.url | prepend: site.url }}"></a>
+      </div>
+
+      <div class="episode__shownotes">
+        {{ page.content }}
+
+      </div>
+
+    </div>
+  </div>
+</section>

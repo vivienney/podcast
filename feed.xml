@@ -31,7 +31,8 @@ layout: null
       <title>{{ episode.long_title | xml_escape }}</title>
       <itunes:author>{{ episode.hosts | array_to_sentence_string | xml_escape }}</itunes:author>
       <itunes:subtitle>{{ episode.subtitle | xml_escape }}</itunes:subtitle>
-      <itunes:summary><![CDATA[{{ episode.content }}]]></itunes:summary>
+      <itunes:summary>{{ episode.subtitle | xml_escape }}</itunes:summary>
+      <content:encoded><![CDATA[{{ episode.content }}]]></content:encoded>
       <enclosure url="{{ episode.audio_link }}" length="{{ episode.length }}" type="audio/mpeg" />
       <guid>{{ episode.url | prepend: site.url }}</guid>
       <pubDate>{{ episode.date | date_to_rfc822 }}</pubDate>

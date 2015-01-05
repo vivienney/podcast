@@ -19,7 +19,7 @@ layout: default
       <p class="episode__latest-notice">Latest Episode</p>
 
       <div class="episode__player">
-        <h3><a href="{{ episode.url | prepend: site.baseurl }}">{{ episode.long_title }}</a></h3>
+        <h3><a href="{{ episode.url }}">{{ episode.long_title }}</a></h3>
 
         <div id="audio-player" data-audio="{{ episode.audio_link }}"></div>
         <div class="player__container">
@@ -43,7 +43,7 @@ layout: default
       <div class="episode__shownotes">
         <p>{{ episode.subtitle }}</p>
 
-        <a class="episode__link" href="{{ episode.url | prepend: site.baseurl }}">Read more</a>
+        <a class="episode__link" href="{{ episode.url }}">Read more</a>
       </div>
 
     </div>

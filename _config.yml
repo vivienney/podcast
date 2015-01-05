@@ -2,7 +2,6 @@
 title: "Steercast"
 description: >
   A weekly podcast about web development and design, recorded in our podcast shed. Every week we'll cover a range of topics, from the tools we use to the languages we like.
-baseurl: /podcast
 url: http://podcast.steer.me
 
 collections:

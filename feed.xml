@@ -29,7 +29,7 @@ layout: null
 
     <item>
       <title>{{ episode.long_title | xml_escape }}</title>
-      <itunes:author>{{ episode.hosts | array_to_sentence_string | xml_escape }}</itunes:author>
+      <itunes:author>Steer</itunes:author>
       <itunes:subtitle>{{ episode.subtitle | xml_escape }}</itunes:subtitle>
       <itunes:summary>{{ episode.subtitle | xml_escape }}</itunes:summary>
       <content:encoded><![CDATA[{{ episode.content }}]]></content:encoded>

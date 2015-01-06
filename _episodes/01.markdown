@@ -3,13 +3,12 @@ layout: post
 title: "01"
 long_title: "01: A few of our favourite things"
 date: 2015-01-06 13:30:00
-hosts: [Sam M, Sam B]
 quote: The closer you get to a language, the more it becomes like creative problem solving.
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/01.mp3"
 # Details for RSS Feed
 duration: "60:36" # duration in minutes:seconds
 length: 58187778 # size in bytes
-subtitle: "The very first Steercast podcast, this episode is introducing Sam Mason & Sam Billingham and asking them questions all about the tools they use to the resource sites they check every day." # Only a few words
+subtitle: "The very first Steercast podcast, this episode is introducing Sam Mason & Sam Billingham and asking them questions all about the tools they use to the resource sites they check every day." # Shoprt description of the episode
 
 # The main content cant be more than 4,000 characters
 ---

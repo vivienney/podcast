@@ -12,7 +12,7 @@ summary: "The very first Steercast podcast, this episode is introducing Sam Maso
 
 # The main content cant be more than 4,000 characters
 ---
-Welcome to Steercast, a weekly podcast about web development and design brought to you by the team at Steer. In this first episode we'll be introducing you to two of our developers Sam Mason([@samjbmason](https://twitter.com/samjbmason)) and Sam Billingham([@sam_billingham](https://twitter.com/sam_billingham)) and finding out why they love to code, tips and tools they use.
+Welcome to Steercast, a about web development and design brought to you by the team at Steer. In this first episode we'll be introducing you to two of our developers Sam Mason([@samjbmason](https://twitter.com/samjbmason)) and Sam Billingham([@sam_billingham](https://twitter.com/sam_billingham)) and finding out why they love to code, tips and tools they use.
 
 #### Languages
 - [Ruby](https://www.ruby-lang.org/en/)

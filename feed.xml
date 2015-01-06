@@ -9,7 +9,7 @@ layout: null
     <link>{{ site.url }}/</link>
     <language>en-gb</language>
     <copyright>&#x2117; &amp; &#xA9; {{ site.time | date: '%Y' }} Steer Systems Ltd</copyright>
-    <itunes:subtitle>A weekly podcast about web development and design by the team at Steer</itunes:subtitle>
+    <itunes:subtitle>{{ site.short_description | xml_escape }}</itunes:subtitle>
     <itunes:author>Steer</itunes:author>
     <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
 

@@ -8,7 +8,7 @@ audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/01.mp3"
 # Details for RSS Feed
 duration: "60:36" # duration in minutes:seconds
 length: 58187778 # size in bytes
-subtitle: "The very first Steercast podcast, this episode is introducing Sam Mason & Sam Billingham and asking them questions all about the tools they use to the resource sites they check every day." # Shoprt description of the episode
+summary: "The very first Steercast podcast, this episode is introducing Sam Mason & Sam Billingham and asking them questions all about the tools they use to the resource sites they check every day." # Shoprt description of the episode
 
 # The main content cant be more than 4,000 characters
 ---

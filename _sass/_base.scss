@@ -183,6 +183,10 @@ h3, .episode__latest-notice {
   @include shift(4);
 }
 
+.episode__player--orphan {
+  @include shift(4);
+}
+
 .episode__latest-notice, .episode__player {
   margin-bottom: 30px;
 }
@@ -225,9 +229,6 @@ blockquote {
 
 .current-episode {
   margin-top: 100px;
-  .episode__player--orphan {
-    @include shift(4);
-  }
 }
 
 .player__container {
@@ -310,4 +311,45 @@ footer {
 
 small {
   font-size: 12px;
+}
+
+@include media($desktop) {
+  .container {
+    margin: 0 10px;
+  }
+}
+
+@include media($tablet) {
+  header {
+    position: relative;
+  }
+
+  .hero, .current-episode {
+    margin-top: 0;
+  }
+
+  .hero {
+    padding: 40px;
+  }
+
+  .episode__latest-notice, .episode__tweet-quote, .episode__player, .episode__shownotes {
+    @include span-columns(12);
+  }
+
+  .episode__player--orphan {
+    @include shift(0);
+  }
+
+  blockquote {
+    padding-top: 30px;
+    font-size: 20px;
+  }
+
+  .episode__tweet-quote a {
+    margin-top: 10px;
+  }
+
+  .episode__latest-notice {
+    margin-bottom: 0;
+  }
 }

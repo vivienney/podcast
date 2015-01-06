@@ -14,3 +14,5 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 $max-width:        960px;
+$desktop: new-breakpoint(max-width 980px);
+$tablet: new-breakpoint(max-width 720px);

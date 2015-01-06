@@ -18,7 +18,7 @@ layout: null
       <itunes:email>podcast@steer.me</itunes:email>
     </itunes:owner>
 
-    <itunes:image href="http://example.com/podcasts/everything/AllAboutEverything.jpg" />
+    <itunes:image href="http://podcast.steer.me/images/logo-for-itunes.png" />
 
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>

@@ -8,11 +8,11 @@ audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/01.mp3"
 # Details for RSS Feed
 duration: "60:36" # duration in minutes:seconds
 length: 58187778 # size in bytes
-summary: "The very first Steercast podcast, this episode is introducing Sam Mason & Sam Billingham and asking them questions all about the tools they use to the resource sites they check every day." # Shoprt description of the episode
+summary: "The very first Steercast podcast, this episode introduces Sam Mason & Sam Billingham as they share their go-to development tools, favourite resource sites, and of course, why they love to code." # Shoprt description of the episode
 
 # The main content cant be more than 4,000 characters
 ---
-Welcome to Steercast, a about web development and design brought to you by the team at Steer. In this first episode we'll be introducing you to two of our developers Sam Mason([@samjbmason](https://twitter.com/samjbmason)) and Sam Billingham([@sam_billingham](https://twitter.com/sam_billingham)) and finding out why they love to code, tips and tools they use.
+The very first Steercast podcast, this episode introduces two of Team Steer's developers, Sam Mason ([@samjbmason](https://twitter.com/samjbmason)) & Sam Billingham ([@sam_billingham](https://twitter.com/sam_billingham)). Hear them share their go-to development tools, favourite resource sites, and of course, why they love to code
 
 #### Languages
 - [Ruby](https://www.ruby-lang.org/en/)

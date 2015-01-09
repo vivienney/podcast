@@ -41,12 +41,12 @@ $ ->
 
 	# Google track events
 	$('.js-itunes-link').click ->
-		_gaq.push(['_trackEvent', 'Episodes', 'iTunes Subscribe']);
+		ga('send','event', 'Episodes', 'iTunes Subscribe')
 
 	$('.play-btn').click ->
 		episode_no = $(this).closest('#audio-player').data('episode')
-		_gaq.push(['_trackEvent', 'Episodes', 'Play', episode_no]);
+		ga.('send','event', 'Episodes', 'Play', episode_no)
 
 	$('.player__download-link').click ->
 		episode_no = $(this).closest('#audio-player').data('episode')
-		_gaq.push(['_trackEvent', 'Episodes', 'Download', episode_no]);
+		ga.('send', 'event', 'Episodes', 'Download', episode_no)

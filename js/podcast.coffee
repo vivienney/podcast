@@ -39,7 +39,6 @@ $ ->
 			duration: '.player__duration'
 
 
-	# Google track events
 	$('.js-itunes-link').click ->
 		ga.('send','event', 'Episodes', 'iTunes Subscribe')
 

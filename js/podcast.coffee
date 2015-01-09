@@ -41,7 +41,7 @@ $ ->
 
 	# Google track events
 	$('.js-itunes-link').click ->
-		ga('send','event', 'Episodes', 'iTunes Subscribe')
+		ga.('send','event', 'Episodes', 'iTunes Subscribe')
 
 	$('.play-btn').click ->
 		episode_no = $(this).closest('#audio-player').data('episode')

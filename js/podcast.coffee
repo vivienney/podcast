@@ -40,12 +40,12 @@ $ ->
 
 
 	$('.js-itunes-link').click ->
-		ga.('send','event', 'Episodes', 'iTunes Subscribe')
+		ga('send','event', 'Episodes', 'iTunes Subscribe')
 
 	$('.play-btn').click ->
 		episode_no = $(this).closest('#audio-player').data('episode')
-		ga.('send','event', 'Episodes', 'Play', episode_no)
+		ga('send','event', 'Episodes', 'Play', episode_no)
 
 	$('.player__download-link').click ->
 		episode_no = $(this).closest('#audio-player').data('episode')
-		ga.('send', 'event', 'Episodes', 'Download', episode_no)
+		ga('send', 'event', 'Episodes', 'Download', episode_no)

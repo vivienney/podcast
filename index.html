@@ -41,7 +41,7 @@ layout: default
       </div>
 
       <div class="episode__shownotes">
-        <p>{{ episode.summary }}</p>
+        {{ episode.summary | markdownify }}
 
         <a class="episode__link" href="{{ episode.url }}">Read more</a>
       </div>
@@ -57,7 +57,7 @@ layout: default
   {% for episode in site.episodes offset: 1 %}
   <section class="episode">
     <h3><a href="{{ episode.url | prepend: site.baseurl }}">{{ episode.long_title }}</a></h3>
-    <p>{{ episode.subtitle }}</p>
+    {{ episode.summary | markdownify }}
 
     <a href="{{ episode.url | prepend: site.baseurl }}">Read more</a>
   </section>

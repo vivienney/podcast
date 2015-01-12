@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "02"
-long_title: "02: The Hottest Podcast Shed"
+long_title: "02: Making the grade"
 date: 2015-01-13 10:30:00
 quote: "There are plenty of career opportunities for people who want to learn to code"
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/02.mp3"

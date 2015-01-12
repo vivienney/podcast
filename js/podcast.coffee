@@ -1,6 +1,7 @@
 ---
 ---
 $ ->
+	# Smooth scroll for click
 	$('.scroll').on 'click', ->
 		sectionHeight= $('#scroll-to-end').offset().top
 		totalHeight = sectionHeight - 100
@@ -15,6 +16,8 @@ $ ->
 		t = $(document).scrollTop()
 		$('header').toggleClass 'active', t > 10
 
+	# Twitter link share
+
 	$('.js-tweet-link').on 'click', ->
 		quote = $(this).data('quote')
 		link = $(this).data('link')
@@ -23,6 +26,7 @@ $ ->
 		window.open(shareUrl, 'name', 'height=396,width=550')
 		return false
 
+	# Audio Player
 
 	$('#audio-player').jPlayer
 		ready: ->
@@ -39,9 +43,7 @@ $ ->
 			currentTime: '.player__current-time'
 			duration: '.player__duration'
 
-
-	$('a[href^="#t="]').click ->
-		return false
+	# Analytic events
 
 	currentEpisodeNo = (episode) ->
 		$(episode).closest('.episode__player').find('#audio-player').data('episode')

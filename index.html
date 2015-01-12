@@ -12,7 +12,8 @@ layout: default
   <a href="#scroll-to-end" class="scroll">Have a listen</a>
 </div>
 
-{% for episode in site.episodes limit:1 %}
+{% assign episodes = site.episodes | sort: 'date' | reverse %}
+{% for episode in episodes | limit: 1 %}
 <section class="latest-epsiode" id="scroll-to-end">
   <div class="container">
     <div class="episode__meta">
@@ -53,8 +54,8 @@ layout: default
 {% endfor %}
 
 
-<div class="container">
-  {% for episode in site.episodes offset: 1 %}
+<div class="container previous-episodes">
+  {% for episode in episodes offset: 1 %}
   <section class="episode">
     <h3><a href="{{ episode.url | prepend: site.baseurl }}">{{ episode.long_title }}</a></h3>
     {{ episode.summary | markdownify }}

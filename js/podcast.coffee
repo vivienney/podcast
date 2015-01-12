@@ -40,6 +40,9 @@ $ ->
 			duration: '.player__duration'
 
 
+	$('a[href^="#t="]').click ->
+		return false
+
 	currentEpisodeNo = (episode) ->
 		$(episode).closest('.episode__player').find('#audio-player').data('episode')
 

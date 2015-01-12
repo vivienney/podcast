@@ -40,6 +40,9 @@ $ ->
 			duration: '.player__duration'
 
 
+	currentEpisodeNo = (episode) ->
+		$(episode).closest('.episode__player').find('#audio-player').data('episode')
+
 	$('.js-itunes-link').click ->
 		ga('send','event', 'Episodes', 'iTunes Subscribe')
 

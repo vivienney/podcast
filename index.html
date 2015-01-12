@@ -54,9 +54,9 @@ layout: default
 {% endfor %}
 
 
-<div class="container previous-episodes">
+<div class="container">
   {% for episode in episodes offset: 1 %}
-  <section class="episode">
+  <section class="previous-episode">
     <h3><a href="{{ episode.url | prepend: site.baseurl }}">{{ episode.long_title }}</a></h3>
     {{ episode.summary | markdownify }}
 

@@ -29,6 +29,7 @@ $ ->
 			$(this).jPlayer 'setMedia',
 				mp3: $('#audio-player').data('audio')
 		preload: 'auto'
+		volume: 1
 		cssSelectorAncestor: '.player__container'
 		cssSelector:
 			play: '.play-btn'

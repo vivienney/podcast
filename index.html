@@ -60,7 +60,7 @@ layout: default
     <h3><a href="{{ episode.url | prepend: site.baseurl }}">{{ episode.long_title }}</a></h3>
     {{ episode.summary | markdownify }}
 
-    <a href="{{ episode.url | prepend: site.baseurl }}">Read more</a>
+    <a class="episode__link" href="{{ episode.url | prepend: site.baseurl }}">Read more</a>
   </section>
   {% endfor %}
 </div>

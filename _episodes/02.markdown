@@ -1,0 +1,33 @@
+---
+layout: post
+title: "02"
+long_title: "02: Making the grade"
+date: 2015-01-13 10:30:00
+quote: "There are plenty of career opportunities for people who want to learn to code"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/02.mp3"
+# Details for RSS Feed
+duration: "69:38" # duration in minutes:seconds
+length: 66866701 # size in bytes
+summary: "Sam Mason and his co-host Sam Billingham discuss the introduction of coding to the national curriculum, and what it could mean for developers and people learning to code. They also take some time answering your questions on coding & tech." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+This week, Sam Mason([@samjbmason](https://twitter.com/samjbmason)) and his co-host Sam Billingham([@sam_billingham](https://twitter.com/sam_billingham)) discuss the introduction of coding to the national curriculum, and what it could mean for developers and people learning to code. They also take some time answering your questions on coding & tech.
+
+**Would you like** your coding & tech questions answered on an episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Pixar Sheds](http://www.eosinteriors.co.uk/things-we-like/pixar-they-work-in-a-shed/)
+- [Scratch](http://scratch.mit.edu/)
+- [Arduino](http://www.arduino.cc/)
+- [Spark](https://www.spark.io/)
+- [Tessel](https://tessel.io/)
+- [Raspberry Pi](http://www.raspberrypi.org/)
+- [Bacon Conference](http://devslovebacon.com/)
+- [Bourbon](http://bourbon.io/)
+- [Neat for Bourbon](http://neat.bourbon.io/)
+
+#### Listener Questions
+- [How can you get a younger sibling into coding?](#t=42:40)
+- [Is the Oculus Rift ready for general use?](#t=52:55)
+- [What is Sass and do I have to use it for my sites?](#t=61:32)

@@ -12,6 +12,6 @@ collections:
 
 # Build settings
 markdown: kramdown
-exclude: [Gemfile, Gemfile.lock, .ruby-version, .rbenv-gemsets, .gitignore, vendor]
+exclude: [Gemfile, Gemfile.lock, .ruby-version, .rbenv-gemsets, .gitignore, vendor, README.markdown]
 sass:
   style: compressed

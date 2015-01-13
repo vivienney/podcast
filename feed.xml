@@ -25,7 +25,8 @@ layout: null
       <itunes:category text="Software How-To"/>
     </itunes:category>
 
-    {% for episode in site.episodes %}
+    {% assign episodes = site.episodes | sort: 'date' | reverse %}
+    {% for episode in episodes %}
 
     <item>
       <title>{{ episode.long_title | xml_escape }}</title>

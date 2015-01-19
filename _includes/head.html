@@ -9,12 +9,12 @@
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@teamsteer">
-    <meta name="twitter:title" content="Listen to {% if page.title %}Episode: {{ page.title }} of the {% endif %}  Steercast now!">
+    <meta name="twitter:title" content="Listen to {% if page.title %}Episode: {{ page.title }} of {% endif %}  Steercast now!">
     <meta name="twitter:description" content="Visit Steercast to listen &amp; subscribe to the podcast">
     <meta name="twitter:url" content="{% if page.title %}{{ page.url | prepend: site.url }} {% else %} {{ site.url }} {% endif %}">
 
 
-    <meta property="og:title" content="Listen to {% if page.title %}Episode: {{ page.title }} of the {% endif %} Steercast now!">
+    <meta property="og:title" content="Listen to {% if page.title %}Episode: {{ page.title }} of {% endif %} Steercast now!">
     <meta property="og:site_name" content="Steercast">
     <meta property="og:url" content="{% if page.title %}{{ page.url | prepend: site.url }} {% else %} {{ site.url }} {% endif %}">
     <meta property="og:image" content="{{ site.url }}/images/logo-for-og.png">

@@ -1,0 +1,49 @@
+---
+layout: post
+title: "03"
+long_title: "03: Nobody needs Twitter in their fridge"
+date: 2015-01-20 10:30:00
+quote: "Over the next year one of the big players is going to take the lead in the world of IoT"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/03.mp3"
+# Details for RSS Feed
+duration: "40:08" # duration in minutes:seconds
+length: 38547876 # size in bytes
+summary: "Sam and Sam talk about the fast growing internet of things, what it is, what you can do with it and what resources are out there to help you get started. We also answer some of your listener questions." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+This week, Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) talk about the growing internet of things, what it is and what platforms are out there to explore. We also answer some listener questions about music to code to and where to find popular open source projects.
+
+**Would you like** your coding & tech questions answered on an episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Arduino](http://www.arduino.cc/)
+- [Spark](https://www.spark.io/)
+- [Raspberry Pi](http://www.raspberrypi.org/)
+- [LIFX](http://lifx.co/)
+- [Philips hue](http://www2.meethue.com/en-gb/)
+- [Nest](https://nest.com/)
+- [WeMo](http://www.wemothat.com/)
+- [Arduino External Sensors](http://store.arduino.cc/category/19)
+- [RS Components](http://uk.rs-online.com/web/) is another good place to find sensors for Arduino and other platforms
+- [Apple HomeKit](https://developer.apple.com/homekit/)
+- Couldn't find any new-ish references to Android @ Home, it looks like it have may have been killed
+- [Adafruit](https://learn.adafruit.com/category/learn-arduino) have great tutorials for Arduino
+- [IFTTT](https://ifttt.com/)
+- [Sam's IoT project ong Github](https://github.com/Sambillingham/songs-with-sam)
+- [Tessel](https://tessel.io/)
+- [SAM](http://samlabs.me/)
+- [Technology Will Save Us](http://www.techwillsaveus.com/) the company we couldn't remember the name of
+- [DIY Gameboy Kit](http://www.techwillsaveus.com/shop/diy-kits/diy-gamer-kit-arduino/)
+- [August smart lock](http://august.com/)  
+- [Lockitron](https://lockitron.com/)
+- [Canary](http://canary.is/)
+- [Dropcam](https://www.dropcam.com/)
+- [Point](http://formdevices.com/)
+
+
+#### Listener Questions
+- [What are some good platforms to get started with the IoT?](#t=28:33)
+- [What are some recommended books for learning web / coding languages?](#t=30:00)
+- [What type of music do you listen to when coding?](#t=32:36)
+- [Where can I find popular / good open source projects](#t=36:20)

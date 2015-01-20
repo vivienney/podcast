@@ -30,7 +30,7 @@ This week, Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_bill
 - Couldn't find any new-ish references to Android @ Home, it looks like it have may have been killed
 - [Adafruit](https://learn.adafruit.com/category/learn-arduino) have great tutorials for Arduino
 - [IFTTT](https://ifttt.com/)
-- [Sam's IoT project ong Github](https://github.com/Sambillingham/songs-with-sam)
+- [Sam's IoT project on Github](https://github.com/Sambillingham/songs-with-sam)
 - [Tessel](https://tessel.io/)
 - [SAM](http://samlabs.me/)
 - [Technology Will Save Us](http://www.techwillsaveus.com/) the company we couldn't remember the name of

@@ -28,13 +28,15 @@ layout: null
     {% assign episodes = site.episodes | sort: 'date' | reverse %}
     {% for episode in episodes %}
 
+    {% capture tracker_link %}{{ site.tracker_url }}?url={{ episode.audio_link }}&title={{ episode.title }}{% endcapture %}
+
     <item>
       <title>{{ episode.long_title | xml_escape }}</title>
       <itunes:author>Steer</itunes:author>
       <itunes:subtitle>{{ episode.summary | xml_escape }}</itunes:subtitle>
       <itunes:summary>{{ episode.summary | xml_escape }}</itunes:summary>
       <content:encoded><![CDATA[{{ episode.content }}]]></content:encoded>
-      <enclosure url="{{ episode.audio_link }}" length="{{ episode.length }}" type="audio/mpeg" />
+      <enclosure url="{{ tracker_link | cgi_escape }}" length="{{ episode.length }}" type="audio/mpeg" />
       <guid>{{ episode.url | prepend: site.url }}</guid>
       <pubDate>{{ episode.date | date_to_rfc822 }}</pubDate>
       <itunes:duration>{{ episode.duration }}</itunes:duration>

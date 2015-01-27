@@ -1,0 +1,30 @@
+---
+layout: post
+title: "04"
+long_title: "04: Jekyll is for coders. Wordpress is for writers"
+date: 2015-01-20 10:30:00
+quote: "Blogs are great. The only person you have to impress with them is yourself"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/04.mp3"
+# Details for RSS Feed
+duration: "43:08" # duration in minutes:seconds
+length: 41425107 # size in bytes
+summary: "Sam and Sam chat blogging; what it is, what platforms are out there and what are the potential pitfalls and advantages of each one." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+This week, Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) chat blogging; what it is, what platforms are out there and what are the potential pitfalls and advantages of each one. We also want to thank all of our amazing listeners on being a part of getting us to the top of the Tech News Podcast chart and being featured in New & Noteworthy, we couldn't of done it without you.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Wordpress (self hosted)](https://en-gb.wordpress.org/)
+- [WordPress (hosted on their server)](https://wordpress.com/)
+- [Ghost](https://ghost.org/)
+- [Jekyll](http://jekyllrb.com/)
+- [Medium](https://medium.com/)
+- [Sam B's site](http://sambillingham.com/)
+- [Sam M's site](http://maison.io) is actually hosted on Digital Ocean not [Github Pages](https://pages.github.com/) but he will be moving it over shortly.
+
+
+#### Listener Questions
+- [What are our top 3 podcasts?](#t=39:10)

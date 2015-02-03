@@ -11,7 +11,7 @@ layout: default
         <div id="audio-player" data-audio="{{ page.audio_link }}" data-episode="{{ page.title }}"></div>
         <div class="player__container">
           {% include player.html %}
-          <a href="{{ audio_link }}" class="player__download-link"></a>
+          <a href="{{ page.audio_link }}" class="player__download-link"></a>
         </div>
       </div>
     </div>

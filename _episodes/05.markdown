@@ -12,7 +12,7 @@ summary: "Sam and Sam continue talking about blogging by delving into the more t
 
 # The main content cant be more than 4,000 characters
 ---
-This week, Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) continue taliking about blogging platforms by delving into the more technical aspects of how database powered CMS's work. They also discuss using caching to speed up your site and what theme frameworks are available to customise and get you started with building your own themes.
+This week, Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) continue talking about blogging platforms by delving into the more technical aspects of how database powered CMS's work. They also discuss using caching to speed up your site and what theme frameworks are available to customise and get you started with building your own themes.
 
 Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
 

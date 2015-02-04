@@ -18,15 +18,24 @@ This week Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billi
 Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
 
 #### Links
-- [Wordpress (self hosted)](https://en-gb.wordpress.org/)
-- [Ghost](https://ghost.org/)
-- [Drupal](https://www.drupal.org/)
-- [Stories from a backpack](http://storiesfromabackpack.com/) by Laura Billingham
-- [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
-- [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
-- [Less Theme](https://github.com/alliswell/Less)
-- [Barebones by Benchmark](https://github.com/benchmarkstudios/barebones)
-- [AdBlock](https://getadblock.com/)
-- [The Deck](http://decknetwork.net/)
-- [Carbon Ads](http://carbonads.net/)
-- [The Guardian responsive ads](http://next.theguardian.com/blog/responsive-takeover/)
+- Pic of the podcast shed
+- [Acoustic Tiles](http://www.amazon.co.uk/dp/B000RW7U9U)
+- [Acoustic Enclosure](http://www.amazon.co.uk/dp/B00IB6HPEY)
+- [Rode Procaster Microphone](http://www.rode.com/microphones/procaster)
+- [Rode Podcaster Microphone](http://www.rode.com/microphones/podcaster)
+- [Zoom H6](http://www.zoom.co.jp/products/h6)
+- [Podcast Method](http://www.podcastmethod.co/) by Dan Benjamin
+- [Aaron Dowd](http://aarondowd.com/)
+- [Garageband](https://www.apple.com/uk/mac/garageband/)
+- [Logic Pro X](https://www.apple.com/uk/logic-pro/)
+- [Audacity](http://audacity.sourceforge.net/)
+- [Audition](https://creative.adobe.com/products/audition)
+- [Github Pages](https://creative.adobe.com/products/audition)
+- [Jekyll](http://jekyllrb.com/)
+- [Itunes Podcast FAQ](https://www.apple.com/uk/itunes/podcasts/specs.html)
+- [Squarespace](http://www.squarespace.com/)
+- [Podtrac](http://podtrac.com/)
+- [Libsyn](https://www.libsyn.com/)
+- [Steercast Download Tracker](https://github.com/steersystems/podcast-tracker)
+- [download.personalsam.com](https://github.com/soffes/download.personalsam.com) by Sam Soffes
+- [Wordpress Podcast Plugin](https://wordpress.org/plugins/powerpress/)

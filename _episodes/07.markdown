@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "07"
-long_title: "07: Remember to flush your cache"
+long_title: "07: Designing in the browser"
 date: 2015-02-17 10:30:00
-quote: "Building a blog about a subject you're passionate can help you raise your profile"
+quote: "Interaction is a huge bonus when designing in the browser with real code"
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/07.mp3"
 # Details for RSS Feed
 duration: "21:33" # duration in minutes:seconds
@@ -12,24 +12,22 @@ summary: "This week we are joined by a special co-host Alice Mollon a Designer a
 
 # The main content cant be more than 4,000 characters
 ---
-This week we are joined by a special co-host Alice Mollon([@alicemollon](https://twitter.com/alicemollon)) who talks to Sam([@samjbmason](https://twitter.com/samjbmason)) about what it likes to design and build projects at Steer and how she transitioned from tools like InDesign & Illustrator to designing in the browser with code. We also ask Alice about where she finds her design inspiration and how she goes about fixing problems with her code. 
+This week we are joined by a special co-host Alice Mollon([@alicemollon](https://twitter.com/alicemollon)) who talks to Sam([@samjbmason](https://twitter.com/samjbmason)) about what it likes to design and build projects at Steer and how she transitioned from tools like InDesign & Illustrator to designing in the browser with code. We also ask Alice about where she finds her design inspiration and how she goes about fixing problems with her code.
 
 Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
 
 #### Links
-- [Wordpress (self hosted)](https://en-gb.wordpress.org/)
-- [Ghost](https://ghost.org/)
-- [Drupal](https://www.drupal.org/)
-- [Stories from a backpack](http://storiesfromabackpack.com/) by Laura Billingham
-- [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
-- [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
-- [Less Theme](https://github.com/alliswell/Less)
-- [Barebones by Benchmark](https://github.com/benchmarkstudios/barebones)
-- [AdBlock](https://getadblock.com/)
-- [The Deck](http://decknetwork.net/)
-- [Carbon Ads](http://carbonads.net/)
-- [The Guardian responsive ads](http://next.theguardian.com/blog/responsive-takeover/)
+- [Stack Overflow](http://stackoverflow.com/)
+- [Awwwards](http://www.awwwards.com/)
+- [Site Inspire](http://siteinspire.com/)
+- [Httpster.net](http://httpster.net/)
+- [Codrops](http://tympanus.net/codrops/)
+- [Noun Project](http://thenounproject.com/)
+- [Icon Melon](http://iconmelon.com/)
+- [Niice](https://niice.co/)
+- [It's Nice That](http://www.itsnicethat.com/)
+- [Coolors](http://coolors.co/)
 
 
 #### Listener Questions
-- [How do I monetise blogs and get ads on it?](#t=31:37)
+- [Where do you go when looking for inspiration?](#t=16:10)

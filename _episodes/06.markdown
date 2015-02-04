@@ -1,0 +1,32 @@
+---
+layout: post
+title: "06"
+long_title: "06: Making a podcast without a shed"
+date: 2015-02-10 10:30:00
+quote: "Building a blog about a subject you're passionate can help you raise your profile"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/06.mp3"
+# Details for RSS Feed
+duration: "38:16" # duration in minutes:seconds
+length: 36736023  # size in bytes
+summary: "This week Sam & Sam talk about what goes into making a podcast, everything from the equipment and software we use all the way up to getting your episode downloads tracked." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) talk about what goes into making a podcast. Starting with what equipment we use to record the Steercast and what hardware you should invest in (Hint: Microphones). We also cover how to get a podcast into iTunes and how best to track downloads, as well as discussing how to decide on a schedule that works for you and your listeners.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Wordpress (self hosted)](https://en-gb.wordpress.org/)
+- [Ghost](https://ghost.org/)
+- [Drupal](https://www.drupal.org/)
+- [Stories from a backpack](http://storiesfromabackpack.com/) by Laura Billingham
+- [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
+- [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
+- [Less Theme](https://github.com/alliswell/Less)
+- [Barebones by Benchmark](https://github.com/benchmarkstudios/barebones)
+- [AdBlock](https://getadblock.com/)
+- [The Deck](http://decknetwork.net/)
+- [Carbon Ads](http://carbonads.net/)
+- [The Guardian responsive ads](http://next.theguardian.com/blog/responsive-takeover/)

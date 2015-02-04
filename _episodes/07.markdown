@@ -12,7 +12,7 @@ summary: "This week we are joined by a special co-host Alice Mollon a Designer a
 
 # The main content cant be more than 4,000 characters
 ---
-This week we are joined by a special co-host Alice Mollon([@alicemollon](https://twitter.com/alicemollon)) who talks to Sam([@samjbmason](https://twitter.com/samjbmason)) about what it likes to design and build projects at Steer and how she transitioned from tools like InDesign & Illustrator to designing in the browser with code. We also ask Alice about where she finds her design inspiration and how she goes about fixing problems with her code.
+This week we're joined by a special co-host Alice Mollon([@alicemollon](https://twitter.com/alicemollon)) who talks to Sam([@samjbmason](https://twitter.com/samjbmason)) about what it's like to design and build projects at Steer, and how she transitioned from tools like InDesign & Illustrator to designing in the browser with code. We also ask Alice about where she finds her design inspiration and how she goes about fixing problems with her code.
 
 Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
 

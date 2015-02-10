@@ -43,6 +43,12 @@ $ ->
 			currentTime: '.player__current-time'
 			duration: '.player__duration'
 
+
+	# Open Links externally
+	$('.episode__shownotes a').filter ->
+		this.hostname != window.location.hostname
+	.attr('target', '_blank')
+
 	# Analytic events
 
 	currentEpisodeNo = (episode) ->

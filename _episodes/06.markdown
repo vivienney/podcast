@@ -3,7 +3,7 @@ layout: post
 title: "06"
 long_title: "06: Making a podcast without a shed"
 date: 2015-02-10 10:00:00
-quote: "Building a blog about a subject you're passionate can help you raise your profile"
+quote: "Just because you dont have a shed doesn't mean you can't make a great show"
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/06.mp3"
 # Details for RSS Feed
 duration: "38:16" # duration in minutes:seconds

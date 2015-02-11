@@ -1,35 +1,35 @@
 ---
 layout: post
-title: "05"
-long_title: "05: Remember to flush your cache"
-date: 2015-02-03 10:30:00
+title: "08"
+long_title: "08: Remember to flush your cache"
+date: 2015-02-24 10:00:00
 quote: "Building a blog about a subject you're passionate can help you raise your profile"
-audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/05.mp3"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/08.mp3"
 # Details for RSS Feed
-duration: "43:27" # duration in minutes:seconds
-length: 41710155  # size in bytes
-summary: "Sam and Sam continue talking about blogging by delving into the more technical aspects of how database CMS's work as well as how advertising platforms work." # Short description of the episode
+duration: "39:30" # duration in minutes:seconds
+length: 37929714  # size in bytes
+summary: "Sam is joined by special co-host Louise Bishop, Steer's iOS teacher. We talk about switching from Android to iOS, moving from Objective-C to Swift and what resources are out there to help beginners." # Short description of the episode
 
 # The main content cant be more than 4,000 characters
 ---
-This week, Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) continue talking about blogging platforms by delving into the more technical aspects of how database powered CMS's work. They also discuss using caching to speed up your site and what theme frameworks are available to customise and get you started with building your own themes.
+Sam([@samjbmason](https://twitter.com/samjbmason)) is joined by special co-host Louise Bishop([@blishop](https://twitter.com/blishop)), Steer's iOS teacher. We talk about Louise's path to becoming an iOS developer and teacher, what the differences are between Objective-C and Swift, the two languages that power iOS apps. Louise also chats about her favourite third party libraries she uses in her apps.
 
 Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
 
 #### Links
-- [Wordpress (self hosted)](https://en-gb.wordpress.org/)
-- [Ghost](https://ghost.org/)
-- [Drupal](https://www.drupal.org/)
-- [Stories from a backpack](http://storiesfromabackpack.com/) by Laura Billingham
-- [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
-- [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
-- [Less Theme](https://github.com/alliswell/Less)
-- [Barebones by Benchmark](https://github.com/benchmarkstudios/barebones)
-- [AdBlock](https://getadblock.com/)
-- [The Deck](http://decknetwork.net/)
-- [Carbon Ads](http://carbonads.net/)
-- [The Guardian responsive ads](http://next.theguardian.com/blog/responsive-takeover/)
+- [Eclipse](https://eclipse.org/ide/)
+- [Android](https://www.android.com/)
+- [Swift Programming Language](https://developer.apple.com/swift/)
+- [AFNetworking](http://afnetworking.com/)
+- [Allamofire](https://github.com/Alamofire/Alamofire)
+- [FormatterKit](https://github.com/mattt/FormatterKit)
+- [Parse](https://www.parse.com/)
+- [MyAppConverter](https://www.myappconverter.com/)
+- [Ray Wenderlich](http://www.raywenderlich.com/)
+- [Steer Blog](https://www.steer.me/blog/)
+- [Unity Game Engine](http://unity3d.com/)
+- [SpriteKit](http://www.raywenderlich.com/84434/sprite-kit-swift-tutorial-beginners)
 
 
 #### Listener Questions
-- [How do I monetise blogs and get ads on it?](#t=31:37)
+- [Which is the best language or framework to build games with?](#t=33:04)

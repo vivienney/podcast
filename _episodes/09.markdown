@@ -1,0 +1,41 @@
+---
+layout: post
+title: "09"
+long_title: "09: The Good, the Bad and the Bootstrap"
+date: 2015-03-03 10:00:00
+quote: "Just because you dont have a shed doesn't mean you can't make a great show"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/09.mp3"
+# Details for RSS Feed
+duration: "44:29" # duration in minutes:seconds
+length: 42709078  # size in bytes
+summary: "This week Sam & Sam talk about what goes into making a podcast, everything from the equipment and software we use all the way up to getting your episode downloads tracked." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) talk about what goes into making a podcast. Starting with what equipment we use to record the Steercast and what hardware you should invest in (Hint: Microphones). We also cover how to get a podcast into iTunes and how best to track downloads, as well as discussing how to decide on a schedule that works for you and your listeners.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [The Podcast Shed](/images/episode_images/shed.jpg)
+- [Acoustic Tiles](http://www.amazon.co.uk/dp/B000RW7U9U)
+- [Acoustic Enclosure](http://www.amazon.co.uk/dp/B00IB6HPEY)
+- [Rode Procaster Microphone](http://www.rode.com/microphones/procaster)
+- [Rode Podcaster Microphone](http://www.rode.com/microphones/podcaster)
+- [Zoom H6](http://www.zoom.co.jp/products/h6)
+- [Podcast Method](http://www.podcastmethod.co/) by Dan Benjamin
+- [The Podcast Dude (Aaron Dowd)](http://www.thepodcastdude.com)
+- [Garageband](https://www.apple.com/uk/mac/garageband/)
+- [Logic Pro X](https://www.apple.com/uk/logic-pro/)
+- [Audacity](http://audacity.sourceforge.net/)
+- [Audition](https://creative.adobe.com/products/audition)
+- [Github Pages](https://pages.github.com)
+- [Jekyll](http://jekyllrb.com/)
+- [Itunes Podcast FAQ](https://www.apple.com/uk/itunes/podcasts/specs.html)
+- [Squarespace](http://www.squarespace.com/)
+- [Podtrac](http://podtrac.com/)
+- [Libsyn](https://www.libsyn.com/)
+- [Steercast Download Tracker](https://github.com/steersystems/podcast-tracker)
+- [download.personalsam.com](https://github.com/soffes/download.personalsam.com) by Sam Soffes
+- [Wordpress Podcast Plugin](https://wordpress.org/plugins/powerpress/)

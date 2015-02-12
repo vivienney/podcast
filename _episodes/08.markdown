@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "08"
-long_title: "08: Remember to flush your cache"
+long_title: "08: The differences between iOS & Hybrid apps"
 date: 2015-02-24 10:00:00
-quote: "Building a blog about a subject you're passionate can help you raise your profile"
+quote: "We are at a point with Swift where everyone can start at similar level with the same resources"
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/08.mp3"
 # Details for RSS Feed
 duration: "39:30" # duration in minutes:seconds

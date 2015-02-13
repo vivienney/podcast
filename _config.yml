@@ -1,7 +1,7 @@
 # Site settings
 title: "Steercast"
 description: >
-  A podcast covering all things web development & design, from practical coding tips to discussions about the latest web trends. Hosted by Sam Mason, Steer's lead teacher & developer, with a different member of the team as co-host each episode.
+  A weekly podcast about  development, design, and everything in between. For those of you finding your footing in the development world, Steercast brings you snippets of tips and talks to guide you through it all.
 short_description: A podcast covering all things web development & design brought to you by the team at Steer
 url: http://podcast.steer.me
 tracker_url: http://ancient-dusk-3695.herokuapp.com/episode.mp3

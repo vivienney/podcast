@@ -1,0 +1,35 @@
+---
+layout: post
+title: "08"
+long_title: "08: The differences between iOS & Hybrid apps"
+date: 2015-02-24 10:00:00
+quote: "We are at a point with Swift where everyone can start at similar level with the same resources"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/08.mp3"
+# Details for RSS Feed
+duration: "39:30" # duration in minutes:seconds
+length: 37929714  # size in bytes
+summary: "Sam is joined by special co-host Louise Bishop, Steer's iOS teacher. We talk about switching from Android to iOS, moving from Objective-C to Swift and what resources are out there to help beginners." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+Sam([@samjbmason](https://twitter.com/samjbmason)) is joined by special co-host Louise Bishop([@blishop](https://twitter.com/blishop)), Steer's iOS teacher. We talk about Louise's path to becoming an iOS developer and teacher, what the differences are between Objective-C and Swift, the two languages that power iOS apps. Louise also chats about her favourite third party libraries she uses in her apps.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Eclipse](https://eclipse.org/ide/)
+- [Android](https://www.android.com/)
+- [Swift Programming Language](https://developer.apple.com/swift/)
+- [AFNetworking](http://afnetworking.com/)
+- [Allamofire](https://github.com/Alamofire/Alamofire)
+- [FormatterKit](https://github.com/mattt/FormatterKit)
+- [Parse](https://www.parse.com/)
+- [MyAppConverter](https://www.myappconverter.com/)
+- [Ray Wenderlich](http://www.raywenderlich.com/)
+- [Steer Blog](https://www.steer.me/blog/)
+- [Unity Game Engine](http://unity3d.com/)
+- [SpriteKit](http://www.raywenderlich.com/84434/sprite-kit-swift-tutorial-beginners)
+
+
+#### Listener Questions
+- [Which is the best language or framework to build games with?](#t=33:04)

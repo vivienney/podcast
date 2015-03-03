@@ -30,4 +30,4 @@ Want your coding & tech questions answered on a future episode of Steercast? Ema
 - [Ruby on Rails](http://rubyonrails.org/)
 
 #### Listener Questions
-- [How do we maintain focus on our prorjects?](#t=32:26)
+- [How do we maintain focus on our projects?](#t=32:26)

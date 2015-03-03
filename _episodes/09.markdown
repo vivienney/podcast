@@ -3,7 +3,7 @@ layout: post
 title: "09"
 long_title: "09: The Good, the Bad and the Bootstrap"
 date: 2015-03-03 10:00:00
-quote: "Frameworks are great learning tools as well as helping you speed up your development"
+quote: "Frameworks are great learning tools as well as helping speed up your development"
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/09.mp3"
 # Details for RSS Feed
 duration: "44:29" # duration in minutes:seconds

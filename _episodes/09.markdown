@@ -1,0 +1,33 @@
+---
+layout: post
+title: "09"
+long_title: "09: The Good, the Bad and the Bootstrap"
+date: 2015-03-03 10:00:00
+quote: "Frameworks are great learning tools as well as helping speed up your development"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/09.mp3"
+# Details for RSS Feed
+duration: "44:29" # duration in minutes:seconds
+length: 42709078  # size in bytes
+summary: "This week Sam & Sam talk about CSS frameworks, what they are, what they are good for and why are certain people dead against using them." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) talk about CSS frameworks. We start off by talking about the different ones that are out there, what are the pros and cons of them and what other options are available if you fancy something a bit more lightweight. We also answer a question on how we as developers focus on projects.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Bootstrap](http://getbootstrap.com/)
+- [Foundation](http://foundation.zurb.com/)
+- [960 Grid System](http://960.gs/)
+- [Skeleton](http://getskeleton.com/)
+- [Bourbon](http://bourbon.io/)
+- [Neat](http://neat.bourbon.io/)
+- [Susy](http://susy.oddbird.net/)
+- [Compass](http://compass-style.org/)
+- [Sass](http://sass-lang.com/)
+- [Ruby on Rails](http://rubyonrails.org/)
+
+#### Listener Questions
+- [How do we maintain focus on our projects?](#t=32:26)

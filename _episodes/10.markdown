@@ -1,0 +1,27 @@
+---
+layout: post
+title: "10"
+long_title: "10: Coding To A Degree"
+date: 2015-03-10 10:00:00
+quote: "Just because you go to uni for one subject, it doesn't mean you can't use all their resources to learn something else."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/10.mp3"
+# Details for RSS Feed
+duration: "33:11" # duration in minutes:seconds
+length: 31866380  # size in bytes
+summary: "This week Sam & Sam talk about the many ways into the tech sector and our personal experiences getting to where we are today." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) talk about the many ways people can get into the tech sector and our personal experiences getting to where we are today.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Plymouth University](https://www.plymouth.ac.uk/)
+- [Portsmouth University](http://portsmouth.ac.uk/)
+- [ImageOptim](https://imageoptim.com/)
+
+#### Listener Questions
+- [What's the difference between working on side projects and Studio work & how do Studios compare?](#t=19:35)
+- [What's the max size for a (hero) image in a design & how do we optimise images?](#t=27:33)

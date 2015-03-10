@@ -20,4 +20,5 @@ Make sure all of these are done for each episode before you release online
 - Write the main contents of the show notes, start with a description of the what the show contains (I normally use the summary from above)
 - Then use an `h4` tag for headings int the content normally just **Links**
 - Create a heading called **Listener Questions**, these are just a list of links and the href value is the time the question is talked about it should in this format `#t=MM:SS`
+- Send Amelia title and short description of episode **early Monday**
 - If you have been creating this draft in a feature branch just merge it with `gh-pages` and push to github

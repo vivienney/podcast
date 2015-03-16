@@ -1,0 +1,49 @@
+---
+layout: post
+title: "11"
+long_title: "11: A List For Life"
+date: 2015-03-17 10:00:00
+quote: "After mastering HTML, CSS & JS you can feel like you're stranded at a roundabout of infinite options."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/11.mp3"
+# Details for RSS Feed
+duration: "51:03" # duration in minutes:seconds
+length: 49009812  # size in bytes
+summary: "This week Sam & Sam talk about how to navigate the choices of frameworks & languages you have as a new developer and which ones to tackle and when." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) talk about how to navigate the choices of frameworks & languages you have as a new developer and which ones to tackle and when.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Designing Twitter Video](http://paulstamatiou.com/twitter-video/)
+- [GitHub](http://github.com)
+- [Bitbucket](https://bitbucket.org/)
+- [Try Git](https://try.github.io/)
+- [Gulp](http://gulpjs.com/)
+- [Grunt](http://gruntjs.com/)
+- [Learn To Program by Chris Pine](https://pine.fm/LearnToProgram/)
+- [Ruby on Rails](http://rubyonrails.org/)
+- [Django](https://www.djangoproject.com/)
+- [Lotus](http://lotusrb.org/)
+- [Flask](http://flask.pocoo.org/)
+- [Laravel](http://laravel.com/)
+- [WordPress](https://en-gb.wordpress.org/)
+- [Perch](http://grabaperch.com/)
+- [Angular](https://angularjs.org/)
+- [Meteor](https://www.meteor.com/)
+- [Ember](http://emberjs.com/)
+- [Backbone](http://backbonejs.org/)
+- [lodash](https://lodash.com/)
+- [Framer](http://framerjs.com/)
+- [Origami](https://facebook.github.io/origami/)
+- [Creative Cloud](http://www.adobe.com/uk/creativecloud.html)
+- [Sketch](http://bohemiancoding.com/sketch/)
+- [Heroku](https://www.heroku.com/)
+- [Docker](https://www.docker.com/)
+- [Container Camp](http://container.camp/)
+
+#### Listener Questions
+- [What are the best domain extensions to use these days and does it even matter anymore?](#t=43:57)

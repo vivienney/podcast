@@ -1,0 +1,28 @@
+---
+layout: post
+title: "12"
+long_title: "12: Surviving Your First Conference"
+date: 2015-03-24 10:00:00
+quote: "The best thing about conferences, they're not in a muddy field."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/12.mp3"
+# Details for RSS Feed
+duration: "27:59" # duration in minutes:seconds
+length: 26873439  # size in bytes
+summary: "This week Sam & Tim talk talk about how to survive your first coding conference and dive a little deeper into Ruby and the Text Editor Vim." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam([@sam_billingham](https://twitter.com/sam_billingham)) and Tim([@tmcdb](https://twitter.com/tmcdb)) talk about how to survive your first coding conference and dive a little deeper into Ruby and the Text Editor Vim.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Vim Editor](http://www.vim.org/)
+- [Vim London Meetup](http://www.meetup.com/vim-london/)
+- [Bath Ruby](http://2015.bathruby.org/)
+- [Brighton ruby](http://brightonruby.com/)
+- [Meetup](http://www.meetup.com/)
+
+#### Listener Questions
+- [How important is it to keep updating your command line to the latest versions of both ruby and rails?](#t=22:50)

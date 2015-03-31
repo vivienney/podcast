@@ -1,0 +1,27 @@
+---
+layout: post
+title: "13"
+long_title: "13: Episode 13_Final_Final_v2"
+date: 2015-03-31 10:00:00
+quote: "The best thing about conferences, they're not in a muddy field."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/13.mp3"
+# Details for RSS Feed
+duration: "43:21" # duration in minutes:seconds
+length: 41615278  # size in bytes
+summary: "This week Sam & Tim talk talk about why you should use version control and why Git is great as well as how to dive into the open source community." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) and Tim([@tmcdb](https://twitter.com/tmcdb)) talk about why you should use version control and why Git is great as well as how to dive into the open source community.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Git](http://git-scm.com/)
+- [Github](https://github.com/)
+- [Subversion](https://subversion.apache.org/)
+- [Mercurial](http://mercurial.selenic.com/)
+- [Try Git online](https://try.github.io/)
+- [Popular projects on Github](https://github.com/explore)
+

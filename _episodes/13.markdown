@@ -3,7 +3,7 @@ layout: post
 title: "13"
 long_title: "13: Episode 13_Final_Final_v2"
 date: 2015-03-31 10:00:00
-quote: "The best thing about conferences, they're not in a muddy field."
+quote: "Git is a like a toolbox. It has loads of tools but you will only use a small set of them."
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/13.mp3"
 # Details for RSS Feed
 duration: "43:21" # duration in minutes:seconds

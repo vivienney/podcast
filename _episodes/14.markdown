@@ -1,0 +1,26 @@
+---
+layout: post
+title: "14"
+long_title: "14: We've come so far, but there is still a way to go"
+date: 2015-04-07 10:00:00
+quote: "Please don't assume that if a woman is at a conference she is tagging along with her partner"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/14.mp3"
+# Details for RSS Feed
+duration: "34:11" # duration in minutes:seconds
+length: 32817655  # size in bytes
+summary: "This week Alice & Louise talk about women in tech and the issues they have faced in their time in the industry as well as some ways of tackling it." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Alice([@alicemollon](https://twitter.com/alicemollon)) and Louise([@blishop](https://twitter.com/blishop)) talk about women in tech and the issues they have faced in their time in the industry as well as some ways of tackling it.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Ada's List](http://adaslist.co/)
+- [Can a few well chosen words improve inclusivity? by Made By Many](http://madebymany.com/blog/can-a-few-well-chosen-words-improve-inclusivity)
+- [Code First: Girls](http://www.codefirstgirls.org.uk/)
+- [Women Who Code](https://www.womenwhocode.com/)
+- [Sexism in Silicon Valley by BBC](http://www.bbc.co.uk/news/technology-32115446)
+

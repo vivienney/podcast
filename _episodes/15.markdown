@@ -1,0 +1,24 @@
+---
+layout: post
+title: "15"
+long_title: "15: We need a tech Mr.Motivator"
+date: 2015-04-14 10:00:00
+quote: "Your motivational reasons will change over the course of the project just make sure you don't lose it."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/15.mp3"
+# Details for RSS Feed
+duration: "33:26" # duration in minutes:seconds
+length: 32107124  # size in bytes
+summary: "This week Sam & Sam talk about motivation. More specifically, what are some ways of staying motivated throughout a project and delving into some of the different reasons people are motivated." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) talk about motivation. More specifically, what are some ways of staying motivated throughout a project and delving into some of the different reasons people are motivated.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Jonnie Hallman](https://twitter.com/destroytoday)
+- [Cushion App](http://cushionapp.com/)
+- [Trello](https://trello.com/)
+

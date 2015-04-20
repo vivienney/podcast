@@ -13,7 +13,7 @@ summary: "This week Sam talks with special guest Ben Howdle about the pressures 
 # The main content cant be more than 4,000 characters
 ---
 
-This week Sam([@samjbmason](https://twitter.com/samjbmason)) talks with special guest Ben Howdle([@benhowdle](https://twitter.com/benhowdle)) about the pressures of keeping up with all the new libraries, frameworks and languages, they also discuss how they decide if a new language or framework is worth persuing to add to their personal tech stack.
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) talks with special guest Ben Howdle([@benhowdle](https://twitter.com/benhowdle)) about the pressures of keeping up with all the new libraries, frameworks and languages. They also discuss how they decide if a new language or framework is worth adding to their personal tech stack.
 
 Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
 

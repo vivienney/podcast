@@ -1,0 +1,42 @@
+---
+layout: post
+title: "16"
+long_title: "16: Feeling Overwwwhelmed with Ben Howdle"
+date: 2015-04-21 10:00:00
+quote: "Writing code is just the manifestation of your deeper knowledge of languages and concepts of programming"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/16.mp3"
+# Details for RSS Feed
+duration: "58:27" # duration in minutes:seconds
+length: 56119298  # size in bytes
+summary: "This week Sam talks with special guest Ben Howdle about the pressures of keeping up with all the new libraries & frameworks and how to find your personal tech stack." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) talks with special guest Ben Howdle([@benhowdle](https://twitter.com/benhowdle)) about the pressures of keeping up with all the new libraries, frameworks and languages, they also discuss how they decide if a new language or framework is worth persuing to add to their personal tech stack.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Ben Howdle Website](http://benhowdle.im/)
+- [The blog post that inspired the episode](http://benhowdle.im/everything-changes-but-you.html)
+- [Plot App](http://plotapp.io) by Ben Howdle & [Jack Smith](http://jacksmith.is/)
+- [JS for all of us](http://jsforallof.us/) Short, in-depth explanations of JavaScript code and concepts by Ben Howdle
+- [Net tuts](http://code.tutsplus.com/)
+- [Chris Spooner](http://blog.spoongraphics.co.uk/)
+- [Jeffrey Way](https://twitter.com/jeffrey_way)
+- [CSS Tricks](https://css-tricks.com/)
+- [Treehouse](https://teamtreehouse.com/)
+- [Marco Arment](http://www.marco.org/)
+- [Sam Soffes](http://soff.es/)
+- [Cheddar Open Source iOS app](https://github.com/nothingmagical/cheddar-ios)
+- [CheddarKit framework for core parts of Cheddar](https://github.com/nothingmagical/cheddarkit)
+- [React](https://facebook.github.io/react/)
+- [React Native](http://facebook.github.io/react-native/)
+- [Gordon Diggs](http://www.gordondiggs.com/) creator of [Rayons app](https://github.com/GordonDiggs/rayons)
+- [Sass](http://sass-lang.com/)
+- [David Walsh](http://davidwalsh.name/)
+- [Frank Chimero essay - From the Porch to the Street](http://frankchimero.com/blog/from-the-porch-to-the-street/)
+- [Ray Wenderlich](http://www.raywenderlich.com/) iOS tutorials and resources
+- [NSScreencast](http://nsscreencast.com/)
+

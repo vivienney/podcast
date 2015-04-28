@@ -1,0 +1,23 @@
+---
+layout: post
+title: "17"
+long_title: "17: Some tips to land your first development job"
+date: 2015-04-28 10:00:00
+quote: "The best place to start is probably the beginning"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/17.mp3"
+# Details for RSS Feed
+duration: "30:19" # duration in minutes:seconds
+length: 291095218  # size in bytes
+summary: "This week Sam & Sam share their top ten tips on going from your first exploration into code to landing your first development job." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) share their top ten tips on going from your first side project to landing your development job. **Don't worry** it's not one of those "Learn this 1 quick tip to become a Ninja, Unicorn, Super star developer" type of episodes.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Silicon Milkroundabout](https://www.siliconmilkroundabout.com/)
+- [Authentic Jobs](https://authenticjobs.com/)
+- [Meetup](http://www.meetup.com/)

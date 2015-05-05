@@ -3,7 +3,7 @@ layout: post
 title: "18"
 long_title: "18: The Coding Food Chain"
 date: 2015-05-05 10:40:00
-quote: "quote here"
+quote: "Building your own blogging engine is a programmers right of passage"
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/18.mp3"
 # Details for RSS Feed
 duration: "30:12" # duration in minutes:seconds

@@ -18,3 +18,4 @@ This week Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billi
 Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
 
 #### Links
+- [Eloquent JavaScript](http://eloquentjavascript.net/)

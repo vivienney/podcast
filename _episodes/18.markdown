@@ -2,13 +2,13 @@
 layout: post
 title: "18"
 long_title: "18: The Coding Food Chain"
-date: 2015-05-05 10:00:00
+date: 2015-05-05 10:40:00
 quote: "quote here"
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/18.mp3"
 # Details for RSS Feed
-duration: "30:19" # duration in minutes:seconds
-length: 291095218  # size in bytes
-summary: "This week Sam & Sam share ideas on when to know how and when to know what. An exploration of coding as a toolset for problem solving. # Short description of the episode
+duration: "30:12" # duration in minutes:seconds
+length: 28989567  # size in bytes
+summary: "This week Sam & Sam share ideas on when to know how and when to know what. An exploration of coding as a toolset for problem solving." # Short description of the episode
 
 # The main content cant be more than 4,000 characters
 ---

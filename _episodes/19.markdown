@@ -1,0 +1,22 @@
+---
+layout: post
+title: "19"
+long_title: "19: Talking Sketch with Chris Downer from Bohemian Coding"
+date: 2015-05-12 11:30:00
+quote: "You have to love & use the tools you build. How else will you know if they are any good?"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/19.mp3"
+# Details for RSS Feed
+duration: "37:20" # duration in minutes:seconds
+length: 35837410  # size in bytes
+summary: "This week Sam Mason chats with Chris Downer a designer at Bohemian Coding the makers of Sketch, about building the next generation of design apps." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) chats with Chris Downer([@cjdowner](https://twitter.com/cjdowner)), a designer at Bohemian Coding the makers of Sketch. We talk about how Chris went from leaving University to designing icons and landing a job at Realmac Software before moving onto becoming a designer working on Sketch, one of the best modern tools for digital design.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Sketch](http://bohemiancoding.com/sketch/)
+- [Realmac Software](http://realmacsoftware.com/)

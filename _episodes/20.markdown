@@ -1,0 +1,21 @@
+---
+layout: post
+title: "20"
+long_title: "20: Money can't buy you time"
+date: 2015-05-18 10:30:00
+quote: "You can always better your best... you can always improve from last time"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/20.mp3"
+# Details for RSS Feed
+duration: "24:34" # duration in minutes:seconds
+length: 23592042  # size in bytes
+summary: "This week Sam & Sam go off-piste and discuss what they feel practise and time management means to them as developers." # Short description of the episode
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) go off-piste and discuss what they feel practise and time management means to them as developers and real life people. Next week, we will get back onto talking about development things.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Pareto Principle / 80-20 principle](http://en.wikipedia.org/wiki/Pareto_principle)

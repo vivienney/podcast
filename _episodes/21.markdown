@@ -8,7 +8,7 @@ audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/21.mp3"
 # Details for RSS Feed
 duration: "27:22" # duration in minutes:seconds
 length: 26279101  # size in bytes
-summary: "This week Tim & Sam B discuss 5 common programming myths. Is programming hard? Is programming creative?” # Short description of the episode
+summary: "This week Tim & Sam B discuss 5 common programming myths. Is programming hard? Is programming creative?”
 
 # The main content cant be more than 4,000 characters
 ---

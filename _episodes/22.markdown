@@ -1,0 +1,23 @@
+---
+layout: post
+title: "22"
+long_title: "22: Finding Your Feet"
+date: 2015-06-02 10:00:00
+quote: "You can be happy with your bucket, dont worry about the wheelbarrow"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/22.mp3"
+# Details for RSS Feed
+duration: "22:56" # duration in minutes:seconds
+length: 22022605  # size in bytes
+summary: "This week Katie G & Sam B talk about some of the challanges you might go through in your first year as a web developer."
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Katie G([@katgrog](https://twitter.com/katgrog)) and Sam B([@sam_billingham](https://twitter.com/sam_billingham)) talk about some of the challenges you might go through in your first year as a web developer. Year one can be a difficult mental battle as you deal with personal comparison and feeling of inadequacy. The tools to combat this are honesty with yourself and colleagues and slowly learning to be okay with your current skills and progress. If you are struggling with your amount of knowledge versus the vast amounts available - know you are not alone. 
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [The Negatives of Personal Comparison](https://www.steer.me/blog/comparison)
+- [I can't yet](https://www.steer.me/blog/i-cant-yet)
+- [Sam B's Post about Winning](http://betterthangood.co/ultimate-frisbee/)

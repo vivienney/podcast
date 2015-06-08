@@ -1,0 +1,22 @@
+---
+layout: post
+title: "23"
+long_title: "23: When Copying is Stealing"
+date: 2015-06-09 10:00:00
+quote: "If the code looks the same, is that copying?"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/23.mp3"
+# Details for RSS Feed
+duration: "36:19" # duration in minutes:seconds
+length: 34862312   # size in bytes
+summary: "This week Sam M & Sam B discuss some of the legal and moral challanges around copying code."
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam M([@samjbmason](https://twitter.com/samjbmason)) and Sam B([@sam_billingham](https://twitter.com/sam_billingham)) answer a listener question - “if you have an idea for a site or and app or just a piece of code and you find something very similar on sites like Github. What is to stop you copying the repository making small amends and passing these off as your own (assuming you had no morals)”. With the open source nature of large code projects and thousands of developers uploading their code to websites like Github when is it okay to use other peoples code? Is it copying or learning to take code from a project online? 
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
+
+#### Links
+- [Github](https://www.github.com)
+- [Choose A License Site](http://choosealicense.com/)

@@ -1,0 +1,18 @@
+---
+layout: post
+title: "24"
+long_title: "24: How do designers and developers solve problems?"
+date: 2015-06-16 10:00:00
+quote: "Both design and development need their own ways of solving problems but ulatimately its about experimentation and perseverance."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/24.mp3"
+# Details for RSS Feed
+duration: "13:55" # duration in minutes:seconds
+length: 13367924   # size in bytes
+summary: "This week Katie & Alice talk about how they both approach problem solving from the point of view of a developer and a designer."
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Alice([@alicemollon](https://twitter.com/alicemollon)) and Katie([@katgrog](https://twitter.com/katgrog)) talk about how they both approach problem solving from the point of view of a developer and a designer and the differences and similarities that they face.
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)

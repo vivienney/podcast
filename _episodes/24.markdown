@@ -3,7 +3,7 @@ layout: post
 title: "24"
 long_title: "24: How do designers and developers solve problems?"
 date: 2015-06-16 10:00:00
-quote: "Both design and development need their own ways of solving problems but ulatimately its about experimentation and perseverance."
+quote: "Both design and development need their own ways of solving problems but ultimately it's about experimentation and perseverance."
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/24.mp3"
 # Details for RSS Feed
 duration: "13:55" # duration in minutes:seconds

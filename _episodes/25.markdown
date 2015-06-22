@@ -3,7 +3,7 @@ layout: post
 title: "25"
 long_title: "25: The story so far with Harry Roberts (CSS Wizardry)"
 date: 2015-06-23 10:00:00
-quote: "Be ambitious, Be driven, know what you want, but slow things down a bit."
+quote: "Be ambitious, Be driven, know what you want, but remember to slow things down a sometimes."
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/25.mp3"
 # Details for RSS Feed
 duration: "30:37" # duration in minutes:seconds

@@ -1,0 +1,32 @@
+---
+layout: post
+title: "25"
+long_title: "25: The story so far with Harry Roberts (CSS Wizardry)"
+date: 2015-06-23 10:00:00
+quote: "Be ambitious, Be driven, know what you want, but remember to slow things down a sometimes."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/25.mp3"
+# Details for RSS Feed
+duration: "30:37" # duration in minutes:seconds
+length: 29395823   # size in bytes
+summary: "This week Sam talks with special guest Harry Roberts about how he got started in the industry and what advice he would give a person starting off in the industry today."
+
+# The main content cant be more than 4,000 characters
+---
+
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) talks with Harry Roberts ([@csswizardry](https://twitter.com/csswizardry)) about his journey so far moving from Sky to becoming a Front-end Architect and Performance Engineer.
+
+We discuss how he got his first speaking gig, the benefits of having a blog and what should newcomers developers learn when starting out.
+
+#### Links
+- [CSS Wizardry](http://csswizardry.com/)
+- [Paul Lewis](https://twitter.com/aerotwist)
+- [Gavin Elliot](https://twitter.com/gavinelliott)
+- [Front Trends Conference](http://2015.front-trends.com/)
+- [Nicolas Gallagher](http://nicolasgallagher.com/about/)
+- [Jonathan Snook](http://snook.ca/)
+- [Nicole Sullivan](http://www.stubbornella.org/content/)
+- [Unfinihsed Business Podcast with Jeremy Keith & Jeffrey Zeldman](http://www.unfinished.bz/110)
+- [A List Apart](http://alistapart.com/)
+
+
+Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)

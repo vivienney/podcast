@@ -8,7 +8,7 @@ audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/26.mp3"
 # Details for RSS Feed
 duration: "27:09" # duration in minutes:seconds
 length: 26065106   # size in bytes
-summary: "This week we interview all of Team Steer about what lessons they have learn't in the past 6 months, ranging from lifestyle advice to knowing it's not naked JavaScript."
+summary: "This week we interview all of Team Steer about what lessons they have learnt in the past 6 months, ranging from lifestyle advice to knowing it's not naked JavaScript."
 
 # The main content cant be more than 4,000 characters
 ---

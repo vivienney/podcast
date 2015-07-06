@@ -1,0 +1,19 @@
+---
+layout: post
+title: "27"
+long_title: "27: Quickfire Questions to Sam B"
+date: 2015-07-07 10:00:00
+quote: "Getting up earlier gives us the chance to move slower and take more time preparing for the day ahead"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/27.mp3"
+# Details for RSS Feed
+duration: "35:39" # duration in minutes:seconds
+length: 34220326   # size in bytes
+summary: "This week Sam M asks Sam B some quick fire questions covering everything from VR to sleep patterns and productivity tips for budding developers."
+
+# The main content cant be more than 4,000 characters
+---
+
+This week we return to our regular schedule programming and Sam([@samjbmason](https://twitter.com/samjbmason)) asks Sam([@sam_billingham](https://twitter.com/sam_billingham)) some quick fire questions talking everything from the current state of VR all the way through to sleeping patterns.
+
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "27"
-long_title: "27: Quickfire Questions to Sam B"
+long_title: "27: Quickfire Questions with Sam B"
 date: 2015-07-07 10:00:00
-quote: "Getting up earlier gives us the chance to move slower and take more time preparing for the day ahead"
+quote: "Getting up earlier gives us the chance to move slower & take more time preparing for the day ahead"
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/27.mp3"
 # Details for RSS Feed
 duration: "35:39" # duration in minutes:seconds

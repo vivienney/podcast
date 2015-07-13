@@ -1,0 +1,24 @@
+---
+layout: post
+title: "28"
+long_title: "28: Quickfire Questions with Sam M"
+date: 2015-07-13 10:00:00
+quote: "Getting up earlier gives us the chance to move slower & take more time preparing for the day ahead"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/28.mp3"
+# Details for RSS Feed
+duration: "38:58" # duration in minutes:seconds
+length: 37406429   # size in bytes
+summary: "This week Sam M asks Sam B some quick fire questions covering everything from VR to sleep patterns and productivity tips for budding developers."
+
+# The main content cant be more than 4,000 characters
+---
+
+This week we return to our regular schedule programming and Sam([@sam_billingham](https://twitter.com/sam_billingham)) asks Sam([@samjbmason](https://twitter.com/samjbmason)) some quick fire questions about adventures and where he thinks the future of web development will be in 5 years time.
+
+#### Links
+- [Harry Roberts @csswizardry](http://csswizardry.com)
+- [Adam Morse @mrmrs_](https://twitter.com/mrmrs_)
+- [Brent Jackson](https://twitter.com/jxnblk)
+
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

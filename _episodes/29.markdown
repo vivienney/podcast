@@ -1,0 +1,25 @@
+---
+layout: post
+title: "29”
+long_title: "29: Three Design Decision Tips”
+date: 2015-07-21 10:00:00
+quote: ""
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/29.mp3"
+# Details for RSS Feed
+duration: “18:57” # duration in minutes:seconds
+length: 18196189   # size in bytes
+summary: "This week Alice M & Sam B give three tips to help you make design decisions for your next website.”
+
+# The main content cant be more than 4,000 characters
+---
+
+Designing websites is hard. This week Alice([@alicemollon](https://twitter.com/alicemollon)) & Sam([@sam_billingham](https://twitter.com/sam_billingham)) give three tips to help you make design decisions for your next website. Talking colours, inspiration and fonts. 
+
+#### Links
+- [Coolers](http://coolors.co/)
+- [Site Inspire](http://www.siteinspire.com/)
+- [Type Wolf](http://www.typewolf.com/)
+- [Hello Happy - Beautiful Type](hellohappy.org/beautiful-web-type/)
+- [100 days of font](http://100daysoffonts.com/)
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

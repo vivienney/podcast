@@ -3,7 +3,7 @@ layout: post
 title: "29”
 long_title: "29: Three Design Decision Tips”
 date: 2015-07-21 10:00:00
-quote: ""
+quote: “Hex codes. Talk to me.“
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/29.mp3"
 # Details for RSS Feed
 duration: “18:57” # duration in minutes:seconds

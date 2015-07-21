@@ -19,7 +19,7 @@ Designing websites is hard. This week Alice([@alicemollon](https://twitter.com/a
 - [Coolers](http://coolors.co/)
 - [Site Inspire](http://www.siteinspire.com/)
 - [Type Wolf](http://www.typewolf.com/)
-- [Hello Happy - Beautiful Type](hellohappy.org/beautiful-web-type/)
+- [Hello Happy - Beautiful Type](http://hellohappy.org/beautiful-web-type/)
 - [100 days of font](http://100daysoffonts.com/)
 
 We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

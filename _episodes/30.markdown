@@ -1,0 +1,23 @@
+---
+layout: post
+title: "30"
+long_title: "30: Three Ways To Improve Your Workflow"
+date: 2015-07-28 10:00:00
+quote: "Once you find the perfect shoe, it will be perfect."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/30.mp3"
+# Details for RSS Feed
+duration: "29:58" # duration in minutes:seconds
+length: 28775572   # size in bytes
+summary: "This week Sam M & Sam B talk about three ideas they use to improve their workflow."
+
+# The main content cant be more than 4,000 characters
+---
+
+Switching between separate tasks or projects can be a challenge. This week Sam M([@samjbmason](https://twitter.com/samjbmason)) & Sam B([@sam_billingham](https://twitter.com/sam_billingham)) talk about three ideas the team at steer use to improve their workflow. How might multitasking, batch processing and keeping records improve your productivity on your next project.
+
+#### Links
+- [Block Websites(Self Control App)](https://selfcontrolapp.com/)
+- [WXG Talk - Sam Mason](http://wxg.co.uk/#panel_speaker_sammason)
+
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

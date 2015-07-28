@@ -18,6 +18,7 @@ Switching between separate tasks or projects can be a challenge. This week Sam M
 #### Links
 - [Block Websites(Self Control App)](https://selfcontrolapp.com/)
 - [WXG Talk - Sam Mason](http://wxg.co.uk/#panel_speaker_sammason)
-
+- [Leave Problems To Solve(Zach Holman)](https://github.com/holman/ama/issues/690)
+- [Rescue Time(Computer Activity Report)](https://www.rescuetime.com/)
 
 We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

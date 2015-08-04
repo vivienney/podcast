@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "31"
-long_title: "31: Everyday Team Steer"
+long_title: "31: Tea Trains and Tech Stacks"
 date: 2015-08-04 10:00:00
 quote: "Why are you turning the lights on, it's not like we're in an office."
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/31.mp3"
@@ -16,6 +16,12 @@ summary: "This week Sam B talks to Alice, Katie and Sam M about some of their da
 This weeks episode if a listener Question from Jack Reid([@_jackwreid](https://twitter.com/_jackwreid)) "What is a typical day like for Team Steer including some of the tools". Sam B([@sam_billingham](https://twitter.com/sam_billingham)) talks to Alice([@ajmollon](https://twitter.com/ajmollon)), Katie([@katgrog](https://twitter.com/katgrog)) and Sam M([@samjbmason](https://twitter.com/samjbmason) about some of their daily tasks and the tools they use each day. From Speaking to potential students with Intercom to backing up data with arq this episode should give you a sneak peak at some of the team's activity.  
 
 #### Links
--
+- [http://jackwreid.uk/](http://jackwreid.uk/)
+- [Twitter Jack Reid](https://twitter.com/_jackwreid)
+- [Steer Instagram](https://instagram.com/teamsteer/)
+- [Intercom](https://www.intercom.io/)
+- [Atom](atom.io)
+- [Sketch](http://bohemiancoding.com/)
+- [Arq](https://www.arqbackup.com/)
 
 We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

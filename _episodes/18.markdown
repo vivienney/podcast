@@ -13,7 +13,7 @@ summary: "This week Sam & Sam share ideas on when to know how and when to know w
 # The main content cant be more than 4,000 characters
 ---
 
-This week Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) ideas on when to know how and when to know what. When first learning to code the vast amount of options can seem like a rabbit hole. Deciding what to learn is a choice where you first decide what problems you want to solve or what projects you want to build. Once you have you project or problem you can search the extensive tools at your disposal and learn those that you need. Episode 18 is an exploration of coding as a toolset for problem solving and a discussion about how everybody loves solving problems.
+This week Sam([@samjbmason](https://twitter.com/samjbmason)) and Sam([@sam_billingham](https://twitter.com/sam_billingham)) share ideas on when to know how and when to know what. When first learning to code the vast amount of options can seem like a rabbit hole. Deciding what to learn is a choice where you first decide what problems you want to solve or what projects you want to build. Once you have you project or problem you can search the extensive tools at your disposal and learn those that you need. Episode 18 is an exploration of coding as a toolset for problem solving and a discussion about how everybody loves solving problems.
 
 Want your coding & tech questions answered on a future episode of Steercast? Email us at [podcast@steer.me](mailto:podcast@steer.me)
 

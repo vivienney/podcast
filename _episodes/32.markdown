@@ -1,0 +1,30 @@
+---
+layout: post
+title: "32"
+long_title: "32: Who the hell is JSON?"
+date: 2015-08-11 10:00:00
+quote: "An API is just like learning to speak another language for a particular web site"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/32.mp3"
+# Details for RSS Feed
+duration: "27:27" # duration in minutes:seconds
+length: 26362693   # size in bytes
+summary: "This week Sam B and Sam M talk about API's what they are, how to use them and where to get started."
+
+# The main content cant be more than 4,000 characters
+---
+This week Sam M([@samjbmason](https://twitter.com/samjbmason)) and Sam B([@sam_billingham](https://twitter.com/sam_billingham)) chat about API's; What are they, how do you work with them and what are some good resources out there to learn more about them.
+
+
+#### Links
+- [Twitter API](https://dev.twitter.com/)
+- [JSON API](http://jsonapi.org/)
+- [Build APIs You Wont Hate](https://leanpub.com/build-apis-you-wont-hate)
+- [Twilio](https://www.twilio.com/)
+- [Spotify API](https://developer.spotify.com/)
+- [Stripe](https://stripe.com/)
+- [Harkable](http://harkable.com/)
+
+
+
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

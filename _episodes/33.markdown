@@ -1,0 +1,24 @@
+---
+layout: post
+title: "33"
+long_title: "33: When Things Go Wrong"
+date: 2015-08-18 10:00:00
+quote: "You had to deal with someone's left over jam on toast project."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/33.mp3"
+# Details for RSS Feed
+duration: "14:06" # duration in minutes:seconds
+length: 13534272  # size in bytes
+summary: "This week Sam B talks with Katie, Tim & Louise about experiences they've had as developer when things have gone wrong."
+
+# The main content cant be more than 4,000 characters
+---
+This Sam B([@sam_billingham](https://twitter.com/sam_billingham)) talks to Katie([@katgrog](https://twitter.com/katgrog), Tim([@tmcdb](https://twitter.com/tmcdb) and Louise([@blishop](https://twitter.com/blishop) about some scary moments they've had being developers. We all do things wrong occasionally here are a few of our experiences. We managed to fit three people in the shed for our final shed episode.
+
+
+#### Links
+- FileZilla [File Zilla FTP Client](https://filezilla-project.org/)
+
+
+
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

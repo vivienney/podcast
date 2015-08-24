@@ -1,0 +1,28 @@
+---
+layout: post
+title: "34"
+long_title: "34: Listener Questions and Static Sites"
+date: 2015-08-25 10:00:00
+quote: "You had to deal with someone's left over jam on toast project."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/34.mp3"
+# Details for RSS Feed
+duration: "28:56" # duration in minutes:seconds
+length: 27777067  # size in bytes
+summary: "This week Sam M and Sam B answer some listener questions about static site generators and how they compare with other CMS's like Wordpress all from our new home at WeWork Moorgate."
+
+# The main content cant be more than 4,000 characters
+---
+This week Sam M([@samjbmason](https://twitter.com/samjbmason)) and Sam B([@sam_billingham](https://twitter.com/sam_billingham)) answer some listener questions about static site generators and how they compare with other CMS's like Wordpress. What are there limitations and what benefits do they give you, we also chat about URL structures for websites all from our new home at WeWork Moorgate.
+
+
+#### Links
+- [Jekyll](http://jekyllrb.com/)
+- [Middleman](https://middlemanapp.com/)
+- [Sinatra](http://www.sinatrarb.com/)
+- [Express](http://expressjs.com/)
+- [Pretty Url's](https://middlemanapp.com/advanced/pretty_urls/)
+- [Parse](https://www.parse.com/)
+- [Firebase](https://www.firebase.com/)
+
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

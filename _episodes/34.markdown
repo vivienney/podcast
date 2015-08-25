@@ -3,7 +3,7 @@ layout: post
 title: "34"
 long_title: "34: Listener Questions and Static Sites"
 date: 2015-08-25 10:00:00
-quote: "You had to deal with someone's left over jam on toast project."
+quote: "Keep your setups simple, the more links you add into the chain the harder it is to fix when they break."
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/34.mp3"
 # Details for RSS Feed
 duration: "28:56" # duration in minutes:seconds

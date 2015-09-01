@@ -1,0 +1,25 @@
+---
+layout: post
+title: "35"
+long_title: "35: Snail Racing and App Provisioning"
+date: 2015-09-01 10:00:00
+quote: "Not many people like snail racing."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/35.mp3"
+# Details for RSS Feed
+duration: "44:53" # duration in minutes:seconds
+length: 43089420  # size in bytes
+summary: "LB and SB Talk about how to launch an iOS App on the App Store"
+
+# The main content cant be more than 4,000 characters
+---
+This week Louise B([@blishop](https://twitter.com/blishop)) introduces Sam B([@sam_billingham](https://twitter.com/sam_billingham)) to the process of launching an iOS App on the App Store. There are a number of steps involved after creating an iOS App to get it in the hands of users, many are often overlooked. Louise takes a step by step approach to run iOS newbie Sam through some of the common pitfalls and how to avoid them.
+
+
+#### Links
+- [Apple Developer Account](https://developer.apple.com/register/)
+- [Member Centre](https://developer.apple.com/membercenter/index.action)
+- [Make App Icon](http://makeappicon.com/)
+- [App Rejections Page](https://developer.apple.com/app-store/review/rejections/)
+- [Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

@@ -1,0 +1,27 @@
+---
+layout: post
+title: "36"
+long_title: "36: A journey of learning with Saul Hardman"
+date: 2015-09-08 10:00:00
+quote: "#1 thing that help me was building things from scratch"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/36.mp3"
+# Details for RSS Feed
+duration: "40:00" # duration in minutes:seconds
+length: 38406606  # size in bytes
+summary: "Sam B & special guest Saul Hardman discuss how learning a bit of everything led them both to web Development. "
+
+# The main content cant be more than 4,000 characters
+---
+This week Sam B([@sam_billingham](https://twitter.com/sam_billingham)) is joined by Saul Hardman([@saulhardman](https://twitter.com/saulhardman)) friend and fellow Digital Art and Technology graduate. This episode delves into our journey as we discuss how a course with such broad learning led us to web development. We share some of the ideas that have helped us most over past 6 years of learning.
+
+
+#### Links
+- [Saul Hardman](http://saulhardman.com)
+- [AllofUs](http://allofus.com/)
+- [Ben Howdle - episode 16](http://podcast.steer.me/16/)
+- [Digital Art & Technology](http://digitalartandtechnology.co.uk/)
+- [Sams Spaceships](https://vimeo.com/18889266)
+- [Better Than Good](http://betterthangood.co)
+- [Forrst(Zurb)](http://zurb.com/article/1146/zurb-acquires-forrst)
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

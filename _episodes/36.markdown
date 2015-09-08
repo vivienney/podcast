@@ -3,7 +3,7 @@ layout: post
 title: "36"
 long_title: "36: A journey of learning with Saul Hardman"
 date: 2015-09-08 10:00:00
-quote: "#1 thing that help me was building things from scratch"
+quote: "The #1 thing that helped me was building things from scratch"
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/36.mp3"
 # Details for RSS Feed
 duration: "40:00" # duration in minutes:seconds

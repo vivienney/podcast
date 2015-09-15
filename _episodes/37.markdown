@@ -1,0 +1,37 @@
+---
+layout: post
+title: "37"
+long_title: "37: Beyond - The conference for coders in development."
+date: 2015-09-15 10:00:00
+quote: "There's a crowd around me like a fun train"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/37.mp3"
+# Details for RSS Feed
+duration: "24:38" # duration in minutes:seconds
+length: 23645123  # size in bytes
+summary: "Today we're excited to introduce the Steercast listeners to Beyond Conference."
+
+# The main content cant be more than 4,000 characters
+---
+This week Sam B([@sam_billingham](https://twitter.com/sam_billingham)) is joined by Amelia Humfress([@ameliahumfress](https://twitter.com/ameliahumfress)) to introduce you to a special event, Beyond Conference. Beyond 2015 is a one-day conference for people who code. Bringing together 600 developers on 23rd November for a day of inspiring talks and interactive workshops. In this episode we talk through some of the reasons behind why we created a conference and who the conference is for.
+
+You can see full details about all the speakers, workshops, partners and sponsors at [Beyondconf.co](http://beyondconf.co). Below is a selection we mentioned in this episode.
+
+#### Speakers
+- [Una Kravets](https://twitter.com/una)
+- [Harry Roberts](https://twitter.com/csswizardry)
+- [Alice Bartlett](https://twitter.com/alicebartlett)
+- [Paul Lewis](aerotwist)
+
+#### Workshops
+- [Sketch App](https://twitter.com/sketchapp)
+- [Seb Lee-Delisle](https://twitter.com/seb_ly)
+
+#### Partners
+- [Code First: Girls](http://www.codefirstgirls.org.uk/)
+- [Girls In Tech](http://girlsintechuk.com/)
+
+#### After Party
+- [WeWork Moorgate](https://www.wework.com/locations/london/moorgate)
+
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

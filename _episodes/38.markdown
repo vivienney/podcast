@@ -1,0 +1,22 @@
+---
+layout: post
+title: "38"
+long_title: "38: Should I be an iOS or Web Developer?"
+date: 2015-09-22 10:00:00
+quote: "If something is more enjoyable, you'll be more likely to stick with it."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/38.mp3"
+# Details for RSS Feed
+duration: "36:19" # duration in minutes:seconds
+length: 34871089  # size in bytes
+summary: "Sam B, Alice M and Louise B discuss some student questions about becoming a developer."
+
+# The main content cant be more than 4,000 characters
+---
+This week Sam B([@sam_billingham](https://twitter.com/sam_billingham)), Alice M([@alicemollon](https://twitter.com/alicemollon)) and Louise B([@blishop](https://twitter.com/blishop)) talk through three student questions.
+
+1. Should I become and iOS or Web developer
+2. Before I learn to code can you test if I will do well?
+3. Is it frustrating when languages keep getting updated?
+
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

@@ -14,8 +14,8 @@ summary: "Sam B, Alice M and Louise B discuss some student questions about becom
 ---
 This week Sam B([@sam_billingham](https://twitter.com/sam_billingham)), Alice M([@alicemollon](https://twitter.com/alicemollon)) and Louise B([@blishop](https://twitter.com/blishop)) talk through three student questions.
 
-1. Should I become and iOS or Web developer
-2. Before I learn to code can you test if I will do well?
+1. Should I become an iOS or Web Developer?
+2. Before I learn to code can you test if I'll be any good at it?
 3. Is it frustrating when languages keep getting updated?
 
 

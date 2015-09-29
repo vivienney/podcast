@@ -1,0 +1,26 @@
+---
+layout: post
+title: "39"
+long_title: "39: Tech Talks and Sam M at WXG"
+date: 2015-09-29 10:00:00
+quote: "After two minutes all the nerves disappear."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/39.mp3"
+# Details for RSS Feed
+duration: "30:47" # duration in minutes:seconds
+length: 29560081  # size in bytes
+summary: "Sam M and Sam B discuss some thoughts on giving talks as a developer after Sam Mason's recent talk at WXG Conference."
+
+# The main content cant be more than 4,000 characters
+---
+This week Sam M([@samjbmason](https://twitter.com/samjbmason)) and Sam B([@sam_billingham](https://twitter.com/sam_billingham)) discuss some thoughts on giving talks as a developer after Sam Mason's recent talk at WXG Conference. 
+
+#### Links
+- [Future of web apps](https://futureofwebapps.com/)
+- [Beyond conference](http://beyondconf.co)
+- [WXG conference](http://wxg.co.uk/)
+- [Almonk](https://twitter.com/almonk)
+- [Speaking.io](http://speaking.io/)
+- [Bacon Conference](http://devslovebacon.com/)
+
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

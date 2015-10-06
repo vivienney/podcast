@@ -1,0 +1,23 @@
+---
+layout: post
+title: "40"
+long_title: "40: The Last 10% Problem"
+date: 2015-10-06 10:00:00
+quote: "The hardest part of any project is the last 10%"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/40.mp3"
+# Details for RSS Feed
+duration: "32:31" #  duration in minutes:seconds
+length: 31212692  # size in bytes
+summary: "Sam M and Sam B discuss some of the challenges faced when getting to the end of a project."
+
+# The main content cant be more than 4,000 characters
+---
+This week Sam M([@samjbmason](https://twitter.com/samjbmason)) and Sam B([@sam_billingham](https://twitter.com/sam_billingham)) discuss some of the challenges faced when getting to the end of a project.
+
+#### Links
+- [http://reqr.es/](http://reqr.es/)
+- [horsemanjs](http://www.horsemanjs.org/)
+- [PhantomJS](http://www.horsemanjs.org/)
+- [Electron](http://electron.atom.io/)
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

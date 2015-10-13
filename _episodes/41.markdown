@@ -1,0 +1,25 @@
+---
+layout: post
+title: "41"
+long_title: "41: Taming the CSS Beast"
+date: 2015-10-13 10:30:00
+quote: "CSS: Most people are just as confused as you probably are"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/41.mp3"
+# Details for RSS Feed
+duration: "22:06" #  duration in minutes:seconds
+length: 21214272  # size in bytes
+summary: "Sam M and Sam B discuss ways they try to keep CSS under control on large projects."
+
+# The main content cant be more than 4,000 characters
+---
+This week Sam M([@samjbmason](https://twitter.com/samjbmason)) and Sam B([@sam_billingham](https://twitter.com/sam_billingham)) discuss ways they try to keep CSS under control on large projects. There are many CSS patterns and conventions emerging and it can be hard to know which to use. Sam & Sam talk about how they do things, *your own research may be needed*
+
+#### Links
+- [Beyond Conf](http://beyondconf.co)
+- [BEMS](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+- [OOCSS](http://oocss.org/)
+- [Atomic CSS](http://acss.io/)
+- [SMACSS](https://smacss.com/)
+- [Tachyons](http://tachyons.io/)
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

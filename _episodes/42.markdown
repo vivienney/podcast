@@ -1,0 +1,22 @@
+---
+layout: post
+title: "42"
+long_title: "42: An Interview with Alana Wood - Studio Design Lead Ustwo "
+date: 2015-10-20 10:00:00
+quote: "Keep asking why to get to the root cause"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/42.mp3"
+# Details for RSS Feed
+duration: "40:55" #  duration in minutes:seconds
+length: 39285156  # size in bytes
+summary: "Amelia is joined by Alana Wood studio design lead at Ustwo. How to get ahead in your career and make apps people love to use."
+
+# The main content cant be more than 4,000 characters
+---
+This Week [Amelia](@ameliahumfress) is joined by [Alana Wood](@missalanawood) (studio design lead Ustwo) If you’re a regular listener to the steer cast you’ll know we are hosting a conference called Beyond in November. Alana is speaking at Beyond and is here today to tell us what it’s like to work at a company like Ustwo and how to get ahead in your career. Alana’s talk at Beyond is about how to make Apps people love to use and sharing stories about Moodnotes.
+
+#### Links
+- [Marvel app](https://marvelapp.com/)
+- [Moodnotes App](https://itunes.apple.com/us/app/moodnotes-thought-journal/id1019230398?mt=8)
+- [Pause App](https://itunes.apple.com/us/app/pause-relaxation-at-your-fingertip/id991764216?mt=8)
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

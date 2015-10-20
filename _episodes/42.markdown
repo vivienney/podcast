@@ -8,7 +8,7 @@ audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/42.mp3"
 # Details for RSS Feed
 duration: "40:55" #  duration in minutes:seconds
 length: 39285156  # size in bytes
-summary: "Amelia is joined by Alana Wood studio design lead at Ustwo. How to get ahead in your career and make apps people love to use."
+summary: "Amelia is joined by Alana Wood, studio design lead at Ustwo, who discusses how to get ahead in your career and make apps people love to use."
 
 # The main content cant be more than 4,000 characters
 ---

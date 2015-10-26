@@ -1,0 +1,22 @@
+---
+layout: post
+title: "43"
+long_title: "43: First Experience With Coding and Web Animation"
+date: 2015-10-27 10:00:00
+quote: "You realise everyone will want you to build them a website now?"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/43.mp3"
+# Details for RSS Feed
+duration: "37:08" #  duration in minutes:seconds
+length: 35647239  # size in bytes
+summary: "Sam and Louise talk to Matt a student visiting steer on work experience."
+
+# The main content cant be more than 4,000 characters
+---
+This Week Sam B([@sam_billingham](https://twitter.com/sam_billingham)) and Louise B[@blishop](https://twitter.com/blishop) talk to Matt a student visiting steer on work experience. Matt had the chance to study on a Steer course for a couple days and shadow Louise on some of her daily duties. With Matt's interest in animation we discuss ideas on working with animaiton in the wed.
+
+#### Links
+- [Beyond](http://beyondconf.co)
+- [UX Archive](http://uxarchive.com/)
+- [Hover States](http://hoverstat.es/)
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

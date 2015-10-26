@@ -12,7 +12,7 @@ summary: "Sam and Louise talk to Matt a student visiting steer on work experienc
 
 # The main content cant be more than 4,000 characters
 ---
-This Week Sam B([@sam_billingham](https://twitter.com/sam_billingham)) and Louise B[@blishop](https://twitter.com/blishop) talk to Matt a student visiting steer on work experience. Matt had the chance to study on a Steer course for a couple days and shadow Louise on some of her daily duties. With Matt's interest in animation we discuss ideas on working with animaiton in the wed.
+This Week Sam B([@sam_billingham](https://twitter.com/sam_billingham)) and Louise B[@blishop](https://twitter.com/blishop) talk to Matt a student visiting steer on work experience. Matt had the chance to study on a Steer course for a couple days and shadow Louise on some of her daily duties. We discuss how Matt found learning with Steer, how it compared to expectations and with Matt's interest in animation we dive into animation in the wed.
 
 #### Links
 - [Beyond](http://beyondconf.co)

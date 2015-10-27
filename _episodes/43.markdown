@@ -8,7 +8,7 @@ audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/43.mp3"
 # Details for RSS Feed
 duration: "37:08" #  duration in minutes:seconds
 length: 35647239  # size in bytes
-summary: "Sam and Louise talk to Matt a student visiting steer on work experience."
+summary: "Sam and Louise talk to Matt, a student visiting Steer on work experience."
 
 # The main content cant be more than 4,000 characters
 ---

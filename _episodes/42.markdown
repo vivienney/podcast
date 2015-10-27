@@ -12,7 +12,7 @@ summary: "Amelia is joined by Alana Wood, studio design lead at Ustwo, who discu
 
 # The main content cant be more than 4,000 characters
 ---
-This Week [Amelia](@ameliahumfress) is joined by [Alana Wood](@missalanawood), the studio design lead at Ustwo. If you’re a regular listener of Steercast you’ll know that we're hosting a conference called Beyond in November, for developers and people who have recently started learning to code. Alana is one of the speakers at Beyond, where she'll be sharing her insights on how to make Apps people love to use. In this episode of Steercast, she shares what it’s like to work at a studio like Ustwo, and how to get ahead in your career.  
+This Week Amelia Humfress ([@ameliahumfress](https://twitter.com/ameliahumfress)) is joined by Alana Wood ([@missalanawood](https://twitter.com/missalanawood)), the studio design lead at Ustwo. If you’re a regular listener of Steercast you’ll know that we're hosting a conference called Beyond in November, for developers and people who have recently started learning to code. Alana is one of the speakers at Beyond, where she'll be sharing her insights on how to make Apps people love to use. In this episode of Steercast, she shares what it’s like to work at a studio like Ustwo, and how to get ahead in your career.  
 
 #### Links
 - [Marvel app](https://marvelapp.com/)

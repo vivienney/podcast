@@ -1,0 +1,24 @@
+---
+layout: post
+title: "44"
+long_title: "44: An Interview with Una Kravets"
+date: 2015-11-03 10:00:00
+quote: "Think about what you want to learn, make a side project around that."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/44.mp3"
+# Details for RSS Feed
+duration: "20:14" #  duration in minutes:seconds
+length: 19433348  # size in bytes
+summary: "Amelia interviews Una Kravats on the Sass Community, CSSgram, personal projects and her upcoming Beyond Conf talk. "
+
+# The main content cant be more than 4,000 characters
+---
+Founder and CEO of Steer, Amelia Humfress([@ameliahumfress](https://twitter.com/ameliahumfress)), was joined by Una Kravats([@una](https://twitter.com/una)), Front-End Developer at IBM Design and one of the speakers at Beyond. They discuss how Una got started within the Sass community and how that lead to her speaking at conferences. Una shares her latest personal project CSSgram and how you can get started with your own personal projects.
+
+#### Links
+- [Beyond](http://beyondconf.co)
+- [Una](http://una.im/)
+- [@una](https://twitter.com/una)
+- [CSSgram](https://github.com/una/CSSgram)
+- [Sass Meister](http://sassmeister.com/)
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

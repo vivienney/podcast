@@ -12,7 +12,7 @@ summary: "Amelia interviews Una Kravats on the Sass Community, CSSgram, personal
 
 # The main content cant be more than 4,000 characters
 ---
-This Week Amelia([@ameliahumfress](https://twitter.com/ameliahumfress)) founder and CEO of Steer talks to Una Kravats([@una](https://twitter.com/una)) front end developer at IBM Design. Amelia and Una discuss how Una got started within the Sass community and how that lead to her speaking at conferences. Ana shares her latest personal project CSS ram and how you can get started with your own personal projects. Una will also be talking at Beyond cons and gives us a preview on what the talk all about.
+Founder and CEO of Steer, Amelia Humfress([@ameliahumfress](https://twitter.com/ameliahumfress)), was joined by Una Kravats([@una](https://twitter.com/una)), Front-End Developer at IBM Design and one of the speakers at Beyond. They discuss how Una got started within the Sass community and how that lead to her speaking at conferences. Una shares her latest personal project CSSgram and how you can get started with your own personal projects.
 
 #### Links
 - [Beyond](http://beyondconf.co)

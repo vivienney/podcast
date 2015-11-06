@@ -1,0 +1,24 @@
+---
+layout: post
+title: "46"
+long_title: "44: An Interview with Mike McQuaid"
+date: 2015-11-17 10:00:00
+quote: "Focus more on the fact you're growing, It's not about how good you are or aren't"
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/46.mp3"
+# Details for RSS Feed
+duration: "22:20" #  duration in minutes:seconds
+length: 21459196  # size in bytes
+summary: "Sam interviews Mike McQuaid on Git, Github and the Patchwork event at Beyond Conference"
+
+# The main content cant be more than 4,000 characters
+---
+Sam Billingham([@sam_billingham](https:twitter.com/sam_billingham)) was joined by Mike McQuaid([mikemcquaid.com](http://mikemcquaid.com/)), Senior Software Engineer at Github and host of the Github Patchwork workshop at Beyond. They discuss the version control system Git and how it integrates with the Github Platform. Mike shares some of his background on landing a job at Github and gives some advice to people just getting started with code.
+
+#### Links
+- [Mike McQuaid - Personal Site](http://mikemcquaid.com/)
+- [Mike Github](https://github.com/MikeMcQuaid)
+- [@mikemcquaid - Twitter](https://twitter.com/mikemcquaid)
+- [Git](https://git-scm.com/)
+- [Patchwork Workshop - Beyond](http://beyondconf.co/schedule/#anchor-github)
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

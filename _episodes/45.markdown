@@ -1,0 +1,24 @@
+---
+layout: post
+title: "45"
+long_title: "45: An Interview with Andy Appleton"
+date: 2015-11-10 10:00:00
+quote: "I'm going to force myself to type with all ten fingers."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/45.mp3"
+# Details for RSS Feed
+duration: "31:19" #  duration in minutes:seconds
+length: 30072499  # size in bytes
+summary: "Amelia interviews Andy Appleton from Heroku about getting started with node.js, remote working and the importance of typing correctly."
+
+# The main content cant be more than 4,000 characters
+---
+Founder and CEO of Steer, Amelia Humfress([@ameliahumfress](https://twitter.com/ameliahumfress)), was joined by Andy Appleton([@appltn](https://twitter.com/appltn)), Developer at Heroku and one of the speakers at Beyond. They discuss the differences between working remotely and the traditional office environment. Andy also shares his insights into improving his typing skills as a developer, and gives some advice on getting started with node.js
+
+#### Links
+- [Beyond](http://beyondconf.co)
+- [Andy](http://floatleft.com/)
+- [Andy Twitter](https://twitter.com/appltn)
+- [Express Node.js Framework](http://expressjs.com/)
+- [Hapi Node.js Framework](http://hapijs.com/)
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

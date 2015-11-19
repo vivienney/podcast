@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "46"
-long_title: "44: An Interview with Mike McQuaid, GitHub Engineer"
+long_title: "46: An Interview with Mike McQuaid, GitHub Engineer"
 date: 2015-11-17 10:00:00
 quote: "Focus more on the fact that you're growing, it's not about how good you are or aren't."
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/46.mp3"

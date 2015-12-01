@@ -6,9 +6,9 @@ date: 2015-12-01 10:00:00
 quote: "The best thing about conferences is realising that the speakers are just people too and you can get up on that stage as well."
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/47.mp3"
 # Details for RSS Feed
-duration: "22:20" #  duration in minutes:seconds
-length: 21459196  # size in bytes
-summary: "Sam & Sam talk about Beyond Conference, Steer's first conference"
+duration: "15:38" #  duration in minutes:seconds
+length: 15009250  # size in bytes
+summary: "Sam & Sam talk about Beyond Conference, Steer's first conference for junior developers"
 
 # The main content cant be more than 4,000 characters
 ---

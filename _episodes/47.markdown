@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "47"
-long_title: "47: Roundup of Beyond Conf"
+long_title: "47: Beyond Conf Roundup"
 date: 2015-12-01 10:00:00
 quote: "The best thing about conferences is realising that the speakers are just people too and you can get up on that stage as well."
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/47.mp3"

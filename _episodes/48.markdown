@@ -1,0 +1,26 @@
+---
+layout: post
+title: "48"
+long_title: "48: Steermas 2015"
+date: 2015-12-08 15:00:00
+quote: "The best thing about conferences is realising that the speakers are just people too and you can get up on that stage as well."
+audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/48.mp3"
+# Details for RSS Feed
+duration: "28:14" #  duration in minutes:seconds
+length: 27111258 # size in bytes
+summary: "Katie & Louise do their roundup of their best things of 2015"
+
+# The main content cant be more than 4,000 characters
+---
+Katie([@katgrog](https://twitter.com/katgrog)) & Louise B([@blishop](https://twitter.com/blishop)) chat about what's on their christmas list and what have been their favourite things have been in 2015.
+
+Happy Christmas to all our Steercast listeners we hope you have a great break and we will see you all in 2016. 🎉👋🎄
+
+#### Links
+- [Nao Bot](https://www.aldebaran.com/en/humanoid-robot/nao-robot)
+- [Ozobot](http://ozobot.com/)
+- [Kano](http://us.kano.me/)
+- [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/#/repl)
+
+
+We are always interested in hearing from you, so if you have any burning questions you want answered or topic suggestions email us at [podcast@steer.me](mailto:podcast@steer.me)

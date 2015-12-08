@@ -3,7 +3,7 @@ layout: post
 title: "48"
 long_title: "48: Steermas 2015"
 date: 2015-12-08 15:00:00
-quote: "The best thing about conferences is realising that the speakers are just people too and you can get up on that stage as well."
+quote: "Swift has been voted the most loved language of 2015, which is impressive for a 2yr old language."
 audio_link: "http://steer-podcast.s3-eu-west-1.amazonaws.com/48.mp3"
 # Details for RSS Feed
 duration: "28:14" #  duration in minutes:seconds
